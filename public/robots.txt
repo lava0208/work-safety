@@ -1,0 +1,11 @@
+//robots.txt
+
+# Block all crawlers for admin pages
+User-agent: *
+Disallow: /upload
+User-agent: *
+Disallow: /score-editor
+
+# Allow all crawlers
+User-agent: *
+Allow: /

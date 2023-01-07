@@ -1,0 +1,121 @@
+:root {
+    --white: #fff;
+    --black: #000;
+    --primary: #1861bf;    
+}
+
+.custom-modal {
+    animation-name: showMain;
+    animation-duration: 400ms;
+    padding: 40px 32px 32px;
+    box-shadow: rgb(196 199 204) 0px 0px 2px;
+}
+
+@keyframes showMain {
+    from {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.custom-modal h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+.custom-modal a{
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+button.google {
+    background-color: var(--white);
+    color: #dc4e41;
+    width: 100%;
+}
+
+button.facebookWhite {
+    background-color: var(--white);
+    color: #1877f2;
+    width: 100%;
+    border: 1px solid #1877f2!important;
+    padding-left: 8px!important;
+}
+
+button.google:focus, button.facebookWhite:focus{
+    background-color: var(--white)!important;
+}
+
+button.apple {
+    background-color: var(--black);
+    color: var(--white);
+    width: 100%;
+    border: 1px solid var(--white)!important;
+    padding-left: 8px!important;
+}
+
+button.apple:focus{
+    background-color: #000!important;
+}
+
+.social{
+    margin-top: 20px;
+}
+
+.social button {
+    align-items: center;
+    box-shadow: none;
+    border: 1px solid #c2c2c2;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 0 16px;
+    height: 40px;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+    user-select: none;
+    margin-top: 16px;
+}
+
+
+.social button .SVGInline {
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-right: 16px;
+    vertical-align: text-bottom;
+}
+
+button.google .SVGInline {
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+}
+
+button.facebookWhite .SVGInline {
+    background-size: 11px 20px;
+    width: 24px;
+    height: 24px;
+}
+
+button.apple .SVGInline {
+    background-size: 11px 20px;
+    width: 20px;
+    height: 24px;
+}
+
+.social button span.label {
+    flex: auto;
+    transform: translateX(-22px);
+}
+
+button.facebookWhite span.label {
+    transform: translateX(-11px);
+}

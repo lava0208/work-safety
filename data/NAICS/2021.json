@@ -1,0 +1,5035 @@
+{
+  "id": "naics-2021",
+    "type": "naics",
+    "year_filing_for": 2021,
+  "11": {
+    "caption": "Agriculture, forestry, fishing and hunting",
+    "trir": 4.6,
+    "dart": 3.1
+  },
+  "21": {
+    "caption": "Mining, quarrying, and oil and gas extraction",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "22": {
+    "caption": "Utilities",
+    "trir": 4.7,
+    "dart": 2.9
+  },
+  "23": {
+    "caption": "Construction",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "42": {
+    "caption": "Wholesale trade",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "51": {
+    "caption": "Information",
+    "trir": 0.7,
+    "dart": 0.5
+  },
+  "52": {
+    "caption": "Finance and insurance",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "53": {
+    "caption": "Real estate and rental and leasing",
+    "trir": 2,
+    "dart": 1.2
+  },
+  "54": {
+    "caption": "Professional, scientific, and technical services",
+    "trir": 0.9,
+    "dart": 0.3
+  },
+  "55": {
+    "caption": "Management of companies and enterprises",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "56": {
+    "caption": "Administrative and support and waste management and remediation services",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "61": {
+    "caption": "Educational services",
+    "trir": 3.4,
+    "dart": 1.4
+  },
+  "62": {
+    "caption": "Health care and social assistance",
+    "trir": 4.9,
+    "dart": 2.4
+  },
+  "71": {
+    "caption": "Arts, entertainment, and recreation",
+    "trir": 3.7,
+    "dart": 2
+  },
+  "72": {
+    "caption": "Accommodation and food services",
+    "trir": 2.7,
+    "dart": 1.3
+  },
+  "81": {
+    "caption": "Other services (except public administration)",
+    "trir": 1.6,
+    "dart": 1
+  },
+  "92": {
+    "caption": "Public administration",
+    "trir": 7.3,
+    "dart": 4.4
+  },
+  "111": {
+    "caption": "Crop production",
+    "trir": 4.7,
+    "dart": 3
+  },
+  "112": {
+    "caption": "Animal production and aquaculture",
+    "trir": 4.8,
+    "dart": 3
+  },
+  "113": {
+    "caption": "Forestry and logging",
+    "trir": 3.4,
+    "dart": 2.6
+  },
+  "115": {
+    "caption": "Support activities for agriculture and forestry",
+    "trir": 4.5,
+    "dart": 3.3
+  },
+  "211": {
+    "caption": "Oil and gas extraction",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "212": {
+    "caption": "Mining (except oil and gas)",
+    "trir": 2.1,
+    "dart": 1.5
+  },
+  "213": {
+    "caption": "Support activities for mining",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "221": {
+    "caption": "Utilities",
+    "trir": 4.7,
+    "dart": 2.9
+  },
+  "236": {
+    "caption": "Construction of buildings",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "237": {
+    "caption": "Heavy and civil engineering construction",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "238": {
+    "caption": "Specialty trade contractors",
+    "trir": 2.8,
+    "dart": 1.8
+  },
+  "311": {
+    "caption": "Food manufacturing",
+    "trir": 4.8,
+    "dart": 3.6
+  },
+  "312": {
+    "caption": "Beverage and tobacco product manufacturing",
+    "trir": 4.2,
+    "dart": 3
+  },
+  "313": {
+    "caption": "Textile mills",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "314": {
+    "caption": "Textile product mills",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "315": {
+    "caption": "Apparel manufacturing",
+    "trir": 1.7,
+    "dart": 1.3
+  },
+  "316": {
+    "caption": "Leather and allied product manufacturing",
+    "trir": 4.5,
+    "dart": 3.1
+  },
+  "321": {
+    "caption": "Wood product manufacturing",
+    "trir": 5.4,
+    "dart": 3.5
+  },
+  "322": {
+    "caption": "Paper manufacturing",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "323": {
+    "caption": "Printing and related support activities",
+    "trir": 2.1,
+    "dart": 1.4
+  },
+  "324": {
+    "caption": "Petroleum and coal products manufacturing",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "325": {
+    "caption": "Chemical manufacturing",
+    "trir": 2,
+    "dart": 1.4
+  },
+  "326": {
+    "caption": "Plastics and rubber products manufacturing",
+    "trir": 3.4,
+    "dart": 2.3
+  },
+  "327": {
+    "caption": "Nonmetallic mineral product manufacturing",
+    "trir": 4.1,
+    "dart": 3
+  },
+  "331": {
+    "caption": "Primary metal manufacturing",
+    "trir": 4.1,
+    "dart": 2.5
+  },
+  "332": {
+    "caption": "Fabricated metal product manufacturing",
+    "trir": 3.6,
+    "dart": 2
+  },
+  "333": {
+    "caption": "Machinery manufacturing",
+    "trir": 2.8,
+    "dart": 1.6
+  },
+  "334": {
+    "caption": "Computer and electronic product manufacturing",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "335": {
+    "caption": "Electrical equipment, appliance, and component manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "336": {
+    "caption": "Transportation equipment manufacturing",
+    "trir": 3.7,
+    "dart": 2.4
+  },
+  "337": {
+    "caption": "Furniture and related product manufacturing",
+    "trir": 3.8,
+    "dart": 2.4
+  },
+  "339": {
+    "caption": "Miscellaneous manufacturing",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "423": {
+    "caption": "Merchant wholesalers, durable goods",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "424": {
+    "caption": "Merchant wholesalers, nondurable goods",
+    "trir": 3.5,
+    "dart": 2.6
+  },
+  "425": {
+    "caption": "Wholesale electronic markets and agents and brokers",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "441": {
+    "caption": "Motor vehicle and parts dealers",
+    "trir": 2.9,
+    "dart": 1.8
+  },
+  "442": {
+    "caption": "Furniture and home furnishings stores",
+    "trir": 2.4,
+    "dart": 1.6
+  },
+  "443": {
+    "caption": "Electronics and appliance stores",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "444": {
+    "caption": "Building material and garden equipment and supplies dealers",
+    "trir": 4.7,
+    "dart": 3.2
+  },
+  "445": {
+    "caption": "Food and beverage stores",
+    "trir": 4.5,
+    "dart": 3.2
+  },
+  "446": {
+    "caption": "Health and personal care stores",
+    "trir": 1.9,
+    "dart": 0.8
+  },
+  "447": {
+    "caption": "Gasoline stations",
+    "trir": 2.1,
+    "dart": 1
+  },
+  "448": {
+    "caption": "Clothing and clothing accessories stores",
+    "trir": 1.3,
+    "dart": 0.6
+  },
+  "451": {
+    "caption": "Sporting goods, hobby, musical instrument, and book stores",
+    "trir": 2.8,
+    "dart": 1.8
+  },
+  "452": {
+    "caption": "General merchandise stores",
+    "trir": 5.6,
+    "dart": 3.5
+  },
+  "453": {
+    "caption": "Miscellaneous store retailers",
+    "trir": 2.9,
+    "dart": 1.8
+  },
+  "454": {
+    "caption": "Nonstore retailers",
+    "trir": 0,
+    "dart": 0
+  },
+  "481": {
+    "caption": "Air transportation",
+    "trir": 6.1,
+    "dart": 5.1
+  },
+  "482": {
+    "caption": "Rail transportation",
+    "trir": 2,
+    "dart": 1.5
+  },
+  "483": {
+    "caption": "Water transportation",
+    "trir": 2.3,
+    "dart": 1.7
+  },
+  "484": {
+    "caption": "Truck transportation",
+    "trir": 3.5,
+    "dart": 2.7
+  },
+  "485": {
+    "caption": "Transit and ground passenger transportation",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "486": {
+    "caption": "Pipeline transportation",
+    "trir": 0.6,
+    "dart": 0.4
+  },
+  "487": {
+    "caption": "Scenic and sightseeing transportation",
+    "trir": 2,
+    "dart": 1.1
+  },
+  "488": {
+    "caption": "Support activities for transportation",
+    "trir": 2.5,
+    "dart": 1.8
+  },
+  "492": {
+    "caption": "Couriers and messengers",
+    "trir": 7.1,
+    "dart": 5.6
+  },
+  "493": {
+    "caption": "Warehousing and storage",
+    "trir": 5.5,
+    "dart": 4.6
+  },
+  "511": {
+    "caption": "Publishing industries (except internet)",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "512": {
+    "caption": "Motion picture and sound recording industries",
+    "trir": 1.4,
+    "dart": 0.6
+  },
+  "515": {
+    "caption": "Broadcasting (except internet)",
+    "trir": 0.8,
+    "dart": 0.6
+  },
+  "517": {
+    "caption": "Telecommunications",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "518": {
+    "caption": "Data processing, hosting, and related services",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "519": {
+    "caption": "Other information services",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "521": {
+    "caption": "Monetary authorities-central bank",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "522": {
+    "caption": "Credit intermediation and related activities",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "523": {
+    "caption": "Securities, commodity contracts, and other financial investments and related activities",
+    "trir": 0,
+    "dart": 0
+  },
+  "524": {
+    "caption": "Insurance carriers and related activities",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "531": {
+    "caption": "Real estate",
+    "trir": 1.8,
+    "dart": 1
+  },
+  "532": {
+    "caption": "Rental and leasing services",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "541": {
+    "caption": "Professional, scientific, and technical services",
+    "trir": 0.9,
+    "dart": 0.3
+  },
+  "561": {
+    "caption": "Administrative and support services",
+    "trir": 1.7,
+    "dart": 1.1
+  },
+  "562": {
+    "caption": "Waste management and remediation services",
+    "trir": 3.1,
+    "dart": 2.3
+  },
+  "611": {
+    "caption": "Educational services",
+    "trir": 3.4,
+    "dart": 1.4
+  },
+  "621": {
+    "caption": "Ambulatory health care services",
+    "trir": 2.5,
+    "dart": 1.3
+  },
+  "622": {
+    "caption": "Hospitals",
+    "trir": 5.2,
+    "dart": 2.2
+  },
+  "623": {
+    "caption": "Nursing and residential care facilities",
+    "trir": 8.6,
+    "dart": 6.4
+  },
+  "624": {
+    "caption": "Social assistance",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "711": {
+    "caption": "Performing arts, spectator sports, and related industries",
+    "trir": 5.2,
+    "dart": 2.7
+  },
+  "712": {
+    "caption": "Museums, historical sites, and similar institutions",
+    "trir": 3.8,
+    "dart": 1.9
+  },
+  "713": {
+    "caption": "Amusement, gambling, and recreation industries",
+    "trir": 3.4,
+    "dart": 1.8
+  },
+  "721": {
+    "caption": "Accommodation",
+    "trir": 3.8,
+    "dart": 2.4
+  },
+  "722": {
+    "caption": "Food services and drinking places",
+    "trir": 2.6,
+    "dart": 1.1
+  },
+  "811": {
+    "caption": "Repair and maintenance",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "812": {
+    "caption": "Personal and laundry services",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "813": {
+    "caption": "Religious, grantmaking, civic, professional, and similar organizations",
+    "trir": 1.3,
+    "dart": 0.7
+  },
+  "922": {
+    "caption": "Justice, public order, and safety activities",
+    "trir": 6.2,
+    "dart": 4
+  },
+  "1111": {
+    "caption": "Oilseed and grain farming",
+    "trir": 3.9,
+    "dart": 2.3
+  },
+  "1112": {
+    "caption": "Vegetable and melon farming",
+    "trir": 4.8,
+    "dart": 3
+  },
+  "1113": {
+    "caption": "Fruit and tree nut farming",
+    "trir": 4.9,
+    "dart": 3.4
+  },
+  "1114": {
+    "caption": "Greenhouse, nursery, and floriculture production",
+    "trir": 4.7,
+    "dart": 2.8
+  },
+  "1119": {
+    "caption": "Other crop farming",
+    "trir": 3.7,
+    "dart": 2.7
+  },
+  "1121": {
+    "caption": "Cattle ranching and farming",
+    "trir": 4.5,
+    "dart": 2.6
+  },
+  "1122": {
+    "caption": "Hog and pig farming",
+    "trir": 4.9,
+    "dart": 3.4
+  },
+  "1123": {
+    "caption": "Poultry and egg production",
+    "trir": 5.7,
+    "dart": 4.2
+  },
+  "1125": {
+    "caption": "Aquaculture",
+    "trir": 5.6,
+    "dart": 4.4
+  },
+  "1129": {
+    "caption": "Other animal production",
+    "trir": 4.7,
+    "dart": 1.9
+  },
+  "1133": {
+    "caption": "Logging",
+    "trir": 3.7,
+    "dart": 2.9
+  },
+  "1151": {
+    "caption": "Support activities for crop production",
+    "trir": 4.8,
+    "dart": 3.5
+  },
+  "1152": {
+    "caption": "Support activities for animal production",
+    "trir": 2.9,
+    "dart": 1.6
+  },
+  "1153": {
+    "caption": "Support activities for forestry",
+    "trir": 3.8,
+    "dart": 2.7
+  },
+  "2111": {
+    "caption": "Oil and gas extraction",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "2121": {
+    "caption": "Coal mining",
+    "trir": 3.2,
+    "dart": 2.4
+  },
+  "2122": {
+    "caption": "Metal ore mining",
+    "trir": 1.8,
+    "dart": 1.4
+  },
+  "2123": {
+    "caption": "Nonmetallic mineral mining and quarrying",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "2131": {
+    "caption": "Support activities for mining",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "2211": {
+    "caption": "Electric power generation, transmission and distribution",
+    "trir": 1.5,
+    "dart": 1
+  },
+  "2212": {
+    "caption": "Natural gas distribution",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "2213": {
+    "caption": "Water, sewage and other systems",
+    "trir": 4.9,
+    "dart": 2.9
+  },
+  "2361": {
+    "caption": "Residential building construction",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "2362": {
+    "caption": "Nonresidential building construction",
+    "trir": 1.9,
+    "dart": 1
+  },
+  "2371": {
+    "caption": "Utility system construction",
+    "trir": 1.8,
+    "dart": 1.2
+  },
+  "2372": {
+    "caption": "Land subdivision",
+    "trir": 0,
+    "dart": 0.6
+  },
+  "2373": {
+    "caption": "Highway, street, and bridge construction",
+    "trir": 3,
+    "dart": 1.8
+  },
+  "2379": {
+    "caption": "Other heavy and civil engineering construction",
+    "trir": 2,
+    "dart": 1.1
+  },
+  "2381": {
+    "caption": "Foundation, structure, and building exterior contractors",
+    "trir": 3.7,
+    "dart": 2.6
+  },
+  "2382": {
+    "caption": "Building equipment contractors",
+    "trir": 2.7,
+    "dart": 1.6
+  },
+  "2383": {
+    "caption": "Building finishing contractors",
+    "trir": 2.7,
+    "dart": 1.9
+  },
+  "2389": {
+    "caption": "Other specialty trade contractors",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "3111": {
+    "caption": "Animal food manufacturing",
+    "trir": 3.6,
+    "dart": 2.5
+  },
+  "3112": {
+    "caption": "Grain and oilseed milling",
+    "trir": 3.2,
+    "dart": 2.4
+  },
+  "3113": {
+    "caption": "Sugar and confectionery product manufacturing",
+    "trir": 3.1,
+    "dart": 2
+  },
+  "3114": {
+    "caption": "Fruit and vegetable preserving and specialty food manufacturing",
+    "trir": 4.6,
+    "dart": 3.3
+  },
+  "3115": {
+    "caption": "Dairy product manufacturing",
+    "trir": 4.8,
+    "dart": 3.3
+  },
+  "3116": {
+    "caption": "Animal slaughtering and processing",
+    "trir": 5.9,
+    "dart": 4.8
+  },
+  "3117": {
+    "caption": "Seafood product preparation and packaging",
+    "trir": 6.5,
+    "dart": 4.5
+  },
+  "3118": {
+    "caption": "Bakeries and tortilla manufacturing",
+    "trir": 3.9,
+    "dart": 3
+  },
+  "3119": {
+    "caption": "Other food manufacturing",
+    "trir": 4.3,
+    "dart": 3.1
+  },
+  "3121": {
+    "caption": "Beverage manufacturing",
+    "trir": 4.3,
+    "dart": 3
+  },
+  "3122": {
+    "caption": "Tobacco manufacturing",
+    "trir": 3.3,
+    "dart": 2.1
+  },
+  "3131": {
+    "caption": "Fiber, yarn, and thread mills",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "3132": {
+    "caption": "Fabric mills",
+    "trir": 3,
+    "dart": 1.9
+  },
+  "3133": {
+    "caption": "Textile and fabric finishing and fabric coating mills",
+    "trir": 2.3,
+    "dart": 1.4
+  },
+  "3141": {
+    "caption": "Textile furnishings mills",
+    "trir": 1.9,
+    "dart": 1.3
+  },
+  "3149": {
+    "caption": "Other textile product mills",
+    "trir": 2.9,
+    "dart": 1.5
+  },
+  "3151": {
+    "caption": "Apparel knitting mills",
+    "trir": 1.4,
+    "dart": 0.9
+  },
+  "3152": {
+    "caption": "Cut and sew apparel manufacturing",
+    "trir": 1.8,
+    "dart": 1.3
+  },
+  "3161": {
+    "caption": "Leather and hide tanning and finishing",
+    "trir": 4.1,
+    "dart": 3.2
+  },
+  "3162": {
+    "caption": "Footwear manufacturing",
+    "trir": 6.5,
+    "dart": 4.1
+  },
+  "3169": {
+    "caption": "Other leather and allied product manufacturing",
+    "trir": 3,
+    "dart": 2.2
+  },
+  "3211": {
+    "caption": "Sawmills and wood preservation",
+    "trir": 5.1,
+    "dart": 3.5
+  },
+  "3212": {
+    "caption": "Veneer, plywood, and engineered wood product manufacturing",
+    "trir": 4.8,
+    "dart": 3.3
+  },
+  "3219": {
+    "caption": "Other wood product manufacturing",
+    "trir": 5.7,
+    "dart": 3.7
+  },
+  "3221": {
+    "caption": "Pulp, paper, and paperboard mills",
+    "trir": 2.5,
+    "dart": 1.8
+  },
+  "3222": {
+    "caption": "Converted paper product manufacturing",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "3231": {
+    "caption": "Printing and related support activities",
+    "trir": 2.1,
+    "dart": 1.4
+  },
+  "3241": {
+    "caption": "Petroleum and coal products manufacturing",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "3251": {
+    "caption": "Basic chemical manufacturing",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "3252": {
+    "caption": "Resin, synthetic rubber, and artificial and synthetic fibers and filaments manufacturing",
+    "trir": 1.7,
+    "dart": 1.1
+  },
+  "3253": {
+    "caption": "Pesticide, fertilizer, and other agricultural chemical manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "3254": {
+    "caption": "Pharmaceutical and medicine manufacturing",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "3255": {
+    "caption": "Paint, coating, and adhesive manufacturing",
+    "trir": 3.5,
+    "dart": 1.9
+  },
+  "3256": {
+    "caption": "Soap, cleaning compound, and toilet preparation manufacturing",
+    "trir": 3,
+    "dart": 2.2
+  },
+  "3259": {
+    "caption": "Other chemical product and preparation manufacturing",
+    "trir": 2.5,
+    "dart": 1.8
+  },
+  "3261": {
+    "caption": "Plastics product manufacturing",
+    "trir": 3.4,
+    "dart": 2.3
+  },
+  "3262": {
+    "caption": "Rubber product manufacturing",
+    "trir": 3.4,
+    "dart": 2.4
+  },
+  "3271": {
+    "caption": "Clay product and refractory manufacturing",
+    "trir": 3,
+    "dart": 2
+  },
+  "3272": {
+    "caption": "Glass and glass product manufacturing",
+    "trir": 3.5,
+    "dart": 2.4
+  },
+  "3273": {
+    "caption": "Cement and concrete product manufacturing",
+    "trir": 4.9,
+    "dart": 3.6
+  },
+  "3274": {
+    "caption": "Lime and gypsum product manufacturing",
+    "trir": 3.1,
+    "dart": 2.2
+  },
+  "3279": {
+    "caption": "Other nonmetallic mineral product manufacturing",
+    "trir": 3.7,
+    "dart": 2.6
+  },
+  "3311": {
+    "caption": "Iron and steel mills and ferroalloy manufacturing",
+    "trir": 2.8,
+    "dart": 1.7
+  },
+  "3312": {
+    "caption": "Steel product manufacturing from purchased steel",
+    "trir": 3.4,
+    "dart": 2.1
+  },
+  "3313": {
+    "caption": "Alumina and aluminum production and processing",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "3314": {
+    "caption": "Nonferrous metal (except aluminum) production and processing",
+    "trir": 3.9,
+    "dart": 2.5
+  },
+  "3315": {
+    "caption": "Foundries",
+    "trir": 6.5,
+    "dart": 3.6
+  },
+  "3321": {
+    "caption": "Forging and stamping",
+    "trir": 4.2,
+    "dart": 2.6
+  },
+  "3322": {
+    "caption": "Cutlery and handtool manufacturing",
+    "trir": 4.4,
+    "dart": 2.3
+  },
+  "3323": {
+    "caption": "Architectural and structural metals manufacturing",
+    "trir": 4.2,
+    "dart": 2.3
+  },
+  "3324": {
+    "caption": "Boiler, tank, and shipping container manufacturing",
+    "trir": 3.6,
+    "dart": 2.1
+  },
+  "3325": {
+    "caption": "Hardware manufacturing",
+    "trir": 4,
+    "dart": 2.5
+  },
+  "3326": {
+    "caption": "Spring and wire product manufacturing",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "3327": {
+    "caption": "Machine shops; turned product; and screw, nut, and bolt manufacturing",
+    "trir": 3.1,
+    "dart": 1.4
+  },
+  "3328": {
+    "caption": "Coating, engraving, heat treating, and allied activities",
+    "trir": 4.1,
+    "dart": 2.7
+  },
+  "3329": {
+    "caption": "Other fabricated metal product manufacturing",
+    "trir": 2.9,
+    "dart": 1.5
+  },
+  "3331": {
+    "caption": "Agriculture, construction, and mining machinery manufacturing",
+    "trir": 3.8,
+    "dart": 2.3
+  },
+  "3332": {
+    "caption": "Industrial machinery manufacturing",
+    "trir": 2.4,
+    "dart": 1.3
+  },
+  "3333": {
+    "caption": "Commercial and service caption machinery manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "3334": {
+    "caption": "Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",
+    "trir": 2.9,
+    "dart": 1.8
+  },
+  "3335": {
+    "caption": "Metalworking machinery manufacturing",
+    "trir": 2.7,
+    "dart": 1.3
+  },
+  "3336": {
+    "caption": "Engine, turbine, and power transmission equipment manufacturing",
+    "trir": 2.4,
+    "dart": 1.5
+  },
+  "3339": {
+    "caption": "Other general purpose machinery manufacturing",
+    "trir": 2.5,
+    "dart": 1.5
+  },
+  "3341": {
+    "caption": "Computer and peripheral equipment manufacturing",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "3342": {
+    "caption": "Communications equipment manufacturing",
+    "trir": 0.8,
+    "dart": 0.6
+  },
+  "3343": {
+    "caption": "Audio and video equipment manufacturing",
+    "trir": 0.8,
+    "dart": 0.4
+  },
+  "3344": {
+    "caption": "Semiconductor and other electronic component manufacturing",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "3345": {
+    "caption": "Navigational, measuring, electromedical, and control instruments manufacturing",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "3346": {
+    "caption": "Manufacturing and reproducing magnetic and optical media",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "3351": {
+    "caption": "Electric lighting equipment manufacturing",
+    "trir": 3.1,
+    "dart": 2.4
+  },
+  "3352": {
+    "caption": "Household appliance manufacturing",
+    "trir": 2,
+    "dart": 1.2
+  },
+  "3353": {
+    "caption": "Electrical equipment manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "3359": {
+    "caption": "Other electrical equipment and component manufacturing",
+    "trir": 2.7,
+    "dart": 1.5
+  },
+  "3361": {
+    "caption": "Motor vehicle manufacturing",
+    "trir": 5.6,
+    "dart": 4
+  },
+  "3362": {
+    "caption": "Motor vehicle body and trailer manufacturing",
+    "trir": 6.1,
+    "dart": 3.4
+  },
+  "3363": {
+    "caption": "Motor vehicle parts manufacturing",
+    "trir": 3.3,
+    "dart": 2.1
+  },
+  "3364": {
+    "caption": "Aerospace product and parts manufacturing",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "3365": {
+    "caption": "Railroad rolling stock manufacturing",
+    "trir": 2.7,
+    "dart": 1.8
+  },
+  "3366": {
+    "caption": "Ship and boat building",
+    "trir": 6.4,
+    "dart": 4.7
+  },
+  "3369": {
+    "caption": "Other transportation equipment manufacturing",
+    "trir": 3.4,
+    "dart": 2.1
+  },
+  "3371": {
+    "caption": "Household and institutional furniture and kitchen cabinet manufacturing",
+    "trir": 3.9,
+    "dart": 2.3
+  },
+  "3372": {
+    "caption": "Office furniture (including fixtures) manufacturing",
+    "trir": 4.1,
+    "dart": 2.6
+  },
+  "3379": {
+    "caption": "Other furniture related product manufacturing",
+    "trir": 3.1,
+    "dart": 1.8
+  },
+  "3391": {
+    "caption": "Medical equipment and supplies manufacturing",
+    "trir": 1.5,
+    "dart": 1
+  },
+  "3399": {
+    "caption": "Other miscellaneous manufacturing",
+    "trir": 3.7,
+    "dart": 2.5
+  },
+  "4231": {
+    "caption": "Motor vehicle and motor vehicle parts and supplies merchant wholesalers",
+    "trir": 3.5,
+    "dart": 2.2
+  },
+  "4232": {
+    "caption": "Furniture and home furnishing merchant wholesalers",
+    "trir": 1,
+    "dart": 0.7
+  },
+  "4233": {
+    "caption": "Lumber and other construction materials merchant wholesalers",
+    "trir": 3.4,
+    "dart": 2.3
+  },
+  "4234": {
+    "caption": "Professional and commercial equipment and supplies merchant wholesalers",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "4235": {
+    "caption": "Metal and mineral (except petroleum) merchant wholesalers",
+    "trir": 3.4,
+    "dart": 2.3
+  },
+  "4236": {
+    "caption": "Household appliances and electrical and electronic goods merchant wholesalers",
+    "trir": 1.3,
+    "dart": 0.8
+  },
+  "4237": {
+    "caption": "Hardware, and plumbing and heating equipment and supplies merchant wholesalers",
+    "trir": 2.3,
+    "dart": 1.4
+  },
+  "4238": {
+    "caption": "Machinery, equipment, and supplies merchant wholesalers",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "4239": {
+    "caption": "Miscellaneous durable goods merchant wholesalers",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "4241": {
+    "caption": "Paper and paper product merchant wholesalers",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "4242": {
+    "caption": "Drugs and druggists' sundries merchant wholesalers",
+    "trir": 1.3,
+    "dart": 1
+  },
+  "4243": {
+    "caption": "Apparel, piece goods, and notions merchant wholesalers",
+    "trir": 1.4,
+    "dart": 1.1
+  },
+  "4244": {
+    "caption": "Grocery and related product merchant wholesalers",
+    "trir": 5.4,
+    "dart": 4.1
+  },
+  "4246": {
+    "caption": "Chemical and allied products merchant wholesalers",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "4247": {
+    "caption": "Petroleum and petroleum products merchant wholesalers",
+    "trir": 2,
+    "dart": 1.6
+  },
+  "4248": {
+    "caption": "Beer, wine, and distilled alcoholic beverage merchant wholesalers",
+    "trir": 5.4,
+    "dart": 4.2
+  },
+  "4249": {
+    "caption": "Miscellaneous nondurable goods merchant wholesalers",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "4411": {
+    "caption": "Automobile dealers",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "4412": {
+    "caption": "Other motor vehicle dealers",
+    "trir": 3.4,
+    "dart": 2.1
+  },
+  "4413": {
+    "caption": "Automotive parts, accessories, and tire stores",
+    "trir": 4.1,
+    "dart": 2.7
+  },
+  "4421": {
+    "caption": "Furniture stores",
+    "trir": 2.3,
+    "dart": 1.8
+  },
+  "4422": {
+    "caption": "Home furnishings stores",
+    "trir": 2.6,
+    "dart": 1.3
+  },
+  "4431": {
+    "caption": "Electronics and appliance stores",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "4441": {
+    "caption": "Building material and supplies dealers",
+    "trir": 4.7,
+    "dart": 3.3
+  },
+  "4442": {
+    "caption": "Lawn and garden equipment and supplies stores",
+    "trir": 4,
+    "dart": 2.1
+  },
+  "4451": {
+    "caption": "Grocery stores",
+    "trir": 4.9,
+    "dart": 3.5
+  },
+  "4452": {
+    "caption": "Specialty food stores",
+    "trir": 1.3,
+    "dart": 0.8
+  },
+  "4453": {
+    "caption": "Beer, wine, and liquor stores",
+    "trir": 0.8,
+    "dart": 0.5
+  },
+  "4461": {
+    "caption": "Health and personal care stores",
+    "trir": 1.9,
+    "dart": 0.8
+  },
+  "4471": {
+    "caption": "Gasoline stations",
+    "trir": 2.1,
+    "dart": 1
+  },
+  "4481": {
+    "caption": "Clothing stores",
+    "trir": 1.5,
+    "dart": 0.5
+  },
+  "4482": {
+    "caption": "Shoe stores",
+    "trir": 0.8,
+    "dart": 0.6
+  },
+  "4483": {
+    "caption": "Jewelry, luggage, and leather goods stores",
+    "trir": 1,
+    "dart": 0.9
+  },
+  "4511": {
+    "caption": "Sporting goods, hobby, and musical instrument stores",
+    "trir": 3,
+    "dart": 1.9
+  },
+  "4512": {
+    "caption": "Book stores and news dealers",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "4522": {
+    "caption": "Department stores",
+    "trir": 5.5,
+    "dart": 3.8
+  },
+  "4523": {
+    "caption": "General merchandise stores, including warehouse clubs and supercenters",
+    "trir": 5.7,
+    "dart": 3.4
+  },
+  "4531": {
+    "caption": "Florists",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "4532": {
+    "caption": "Office supplies, stationery, and gift stores",
+    "trir": 1.8,
+    "dart": 1.3
+  },
+  "4533": {
+    "caption": "Used merchandise stores",
+    "trir": 3.9,
+    "dart": 2.6
+  },
+  "4539": {
+    "caption": "Other miscellaneous store retailers",
+    "trir": 2.9,
+    "dart": 1.7
+  },
+  "4541": {
+    "caption": "Electronic shopping and mail-order houses",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "4543": {
+    "caption": "Direct selling establishments",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "4811": {
+    "caption": "Scheduled air transportation",
+    "trir": 6.8,
+    "dart": 5.7
+  },
+  "4812": {
+    "caption": "Nonscheduled air transportation",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "4831": {
+    "caption": "Deep sea, coastal, and great lakes water transportation",
+    "trir": 0,
+    "dart": 0
+  },
+  "4832": {
+    "caption": "Inland water transportation",
+    "trir": 3.5,
+    "dart": 2.5
+  },
+  "4841": {
+    "caption": "General freight trucking",
+    "trir": 3.5,
+    "dart": 2.7
+  },
+  "4842": {
+    "caption": "Specialized freight trucking",
+    "trir": 3.6,
+    "dart": 2.6
+  },
+  "4851": {
+    "caption": "Urban transit systems",
+    "trir": 6.2,
+    "dart": 4.3
+  },
+  "4852": {
+    "caption": "Interurban and rural bus transportation",
+    "trir": 5.1,
+    "dart": 3.7
+  },
+  "4853": {
+    "caption": "Taxi and limousine service",
+    "trir": 2.8,
+    "dart": 2.3
+  },
+  "4854": {
+    "caption": "School and employee bus transportation",
+    "trir": 3.3,
+    "dart": 2.1
+  },
+  "4855": {
+    "caption": "Charter bus caption",
+    "trir": 1.8,
+    "dart": 1.4
+  },
+  "4859": {
+    "caption": "Other transit and ground passenger transportation",
+    "trir": 4.1,
+    "dart": 3
+  },
+  "4862": {
+    "caption": "Pipeline transportation of natural gas",
+    "trir": 0.5,
+    "dart": 0.4
+  },
+  "4871": {
+    "caption": "Scenic and sightseeing transportation, land",
+    "trir": 2.4,
+    "dart": 1.6
+  },
+  "4872": {
+    "caption": "Scenic and sightseeing transportation, water",
+    "trir": 2.2,
+    "dart": 0.9
+  },
+  "4881": {
+    "caption": "Support activities for air transportation",
+    "trir": 3.5,
+    "dart": 2.4
+  },
+  "4882": {
+    "caption": "Support activities for rail transportation",
+    "trir": 2.7,
+    "dart": 1.7
+  },
+  "4883": {
+    "caption": "Support activities for water transportation",
+    "trir": 3.3,
+    "dart": 2.4
+  },
+  "4884": {
+    "caption": "Support activities for road transportation",
+    "trir": 0,
+    "dart": 1.9
+  },
+  "4885": {
+    "caption": "Freight transportation arrangement",
+    "trir": 1.1,
+    "dart": 0.8
+  },
+  "4889": {
+    "caption": "Other support activities for transportation",
+    "trir": 5.4,
+    "dart": 3.9
+  },
+  "4921": {
+    "caption": "Couriers and express delivery services",
+    "trir": 8,
+    "dart": 6.3
+  },
+  "4931": {
+    "caption": "Warehousing and storage",
+    "trir": 5.5,
+    "dart": 4.6
+  },
+  "5111": {
+    "caption": "Newspaper, periodical, book, and directory publishers",
+    "trir": 0.8,
+    "dart": 0.5
+  },
+  "5112": {
+    "caption": "Software publishers",
+    "trir": 0,
+    "dart": 0
+  },
+  "5121": {
+    "caption": "Motion picture and video industries",
+    "trir": 1.5,
+    "dart": 0.6
+  },
+  "5122": {
+    "caption": "Sound recording industries",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "5151": {
+    "caption": "Radio and television broadcasting",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "5152": {
+    "caption": "Cable and other subscription programming",
+    "trir": 2.2,
+    "dart": 1.7
+  },
+  "5173": {
+    "caption": "Wired and wireless telecommunications carriers",
+    "trir": 1.9,
+    "dart": 1.4
+  },
+  "5191": {
+    "caption": "Other information services",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "5221": {
+    "caption": "Depository credit intermediation",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "5222": {
+    "caption": "Nondepository credit intermediation",
+    "trir": 0.4,
+    "dart": 0.4
+  },
+  "5231": {
+    "caption": "Securities and commodity contracts intermediation and brokerage",
+    "trir": 0,
+    "dart": 0
+  },
+  "5241": {
+    "caption": "Insurance carriers",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "5242": {
+    "caption": "Agencies, brokerages, and other insurance related activities",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "5311": {
+    "caption": "Lessors of real estate",
+    "trir": 2.3,
+    "dart": 1.3
+  },
+  "5312": {
+    "caption": "Offices of real estate agents and brokers",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "5313": {
+    "caption": "Activities related to real estate",
+    "trir": 2.2,
+    "dart": 1.1
+  },
+  "5321": {
+    "caption": "Automotive equipment rental and leasing",
+    "trir": 3.7,
+    "dart": 2.6
+  },
+  "5322": {
+    "caption": "Consumer goods rental",
+    "trir": 2.6,
+    "dart": 2.2
+  },
+  "5323": {
+    "caption": "General rental centers",
+    "trir": 3,
+    "dart": 1
+  },
+  "5324": {
+    "caption": "Commercial and industrial machinery and equipment rental and leasing",
+    "trir": 2,
+    "dart": 1.1
+  },
+  "5411": {
+    "caption": "Legal services",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "5412": {
+    "caption": "Accounting, tax preparation, bookkeeping, and payroll services",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "5413": {
+    "caption": "Architectural, engineering, and related services",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "5414": {
+    "caption": "Specialized design services",
+    "trir": 0.7,
+    "dart": 0.5
+  },
+  "5415": {
+    "caption": "Computer systems design and related services",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "5416": {
+    "caption": "Management, scientific, and technical consulting services",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "5417": {
+    "caption": "Scientific research and development services",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "5418": {
+    "caption": "Advertising, public relations, and related services",
+    "trir": 0,
+    "dart": 0.5
+  },
+  "5419": {
+    "caption": "Other professional, scientific, and technical services",
+    "trir": 7.3,
+    "dart": 2.1
+  },
+  "5611": {
+    "caption": "Office administrative services",
+    "trir": 0.8,
+    "dart": 0.3
+  },
+  "5612": {
+    "caption": "Facilities support services",
+    "trir": 3.8,
+    "dart": 2.8
+  },
+  "5613": {
+    "caption": "Employment services",
+    "trir": 0.8,
+    "dart": 0.5
+  },
+  "5614": {
+    "caption": "Business support services",
+    "trir": 0.5,
+    "dart": 0.4
+  },
+  "5615": {
+    "caption": "Travel arrangement and reservation services",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "5616": {
+    "caption": "Investigation and security services",
+    "trir": 1.4,
+    "dart": 0.7
+  },
+  "5617": {
+    "caption": "Services to buildings and dwellings",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "5619": {
+    "caption": "Other support services",
+    "trir": 2.7,
+    "dart": 2
+  },
+  "5621": {
+    "caption": "Waste collection",
+    "trir": 3.8,
+    "dart": 2.8
+  },
+  "5622": {
+    "caption": "Waste treatment and disposal",
+    "trir": 2.6,
+    "dart": 1.9
+  },
+  "5629": {
+    "caption": "Remediation and other waste management services",
+    "trir": 2.7,
+    "dart": 2
+  },
+  "6111": {
+    "caption": "Elementary and secondary schools",
+    "trir": 3.5,
+    "dart": 1.4
+  },
+  "6112": {
+    "caption": "Junior colleges",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "6113": {
+    "caption": "Colleges, universities, and professional schools",
+    "trir": 1.3,
+    "dart": 0.6
+  },
+  "6114": {
+    "caption": "Business schools and computer and management training",
+    "trir": 2.2,
+    "dart": 1.6
+  },
+  "6115": {
+    "caption": "Technical and trade schools",
+    "trir": 0.6,
+    "dart": 0.2
+  },
+  "6116": {
+    "caption": "Other schools and instruction",
+    "trir": 1,
+    "dart": 0.8
+  },
+  "6117": {
+    "caption": "Educational support services",
+    "trir": 0.5,
+    "dart": 0.4
+  },
+  "6211": {
+    "caption": "Offices of physicians",
+    "trir": 2,
+    "dart": 0.7
+  },
+  "6212": {
+    "caption": "Offices of dentists",
+    "trir": 1.3,
+    "dart": 0.2
+  },
+  "6213": {
+    "caption": "Offices of other health practitioners",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "6214": {
+    "caption": "Outpatient care centers",
+    "trir": 3.9,
+    "dart": 1.8
+  },
+  "6215": {
+    "caption": "Medical and diagnostic laboratories",
+    "trir": 1.9,
+    "dart": 0.9
+  },
+  "6216": {
+    "caption": "Home health care services",
+    "trir": 2.6,
+    "dart": 1.8
+  },
+  "6219": {
+    "caption": "Other ambulatory health care services",
+    "trir": 7.3,
+    "dart": 5.1
+  },
+  "6221": {
+    "caption": "General medical and surgical hospitals",
+    "trir": 6.1,
+    "dart": 3.1
+  },
+  "6222": {
+    "caption": "Psychiatric and substance abuse hospitals",
+    "trir": 7.1,
+    "dart": 4.6
+  },
+  "6223": {
+    "caption": "Specialty (except psychiatric and substance abuse) hospitals",
+    "trir": 5.1,
+    "dart": 3.1
+  },
+  "6231": {
+    "caption": "Nursing care facilities (skilled nursing facilities)",
+    "trir": 8.8,
+    "dart": 6.8
+  },
+  "6232": {
+    "caption": "Residential intellectual and developmental disability, mental health, and substance abuse facilities",
+    "trir": 4.8,
+    "dart": 3
+  },
+  "6233": {
+    "caption": "Continuing care retirement communities and assisted living facilities for the elderly",
+    "trir": 7.4,
+    "dart": 5.1
+  },
+  "6239": {
+    "caption": "Other residential care facilities",
+    "trir": 5.3,
+    "dart": 2.7
+  },
+  "6241": {
+    "caption": "Individual and family services",
+    "trir": 2.3,
+    "dart": 1.4
+  },
+  "6242": {
+    "caption": "Community food and housing, and emergency and other relief services",
+    "trir": 2.9,
+    "dart": 1.5
+  },
+  "6243": {
+    "caption": "Vocational rehabilitation services",
+    "trir": 4.1,
+    "dart": 2.4
+  },
+  "6244": {
+    "caption": "Child day care services",
+    "trir": 1.8,
+    "dart": 0.9
+  },
+  "7111": {
+    "caption": "Performing arts companies",
+    "trir": 3.3,
+    "dart": 0.9
+  },
+  "7112": {
+    "caption": "Spectator sports",
+    "trir": 11.1,
+    "dart": 6.7
+  },
+  "7113": {
+    "caption": "Promoters of performing arts, sports, and similar events",
+    "trir": 2.7,
+    "dart": 0.9
+  },
+  "7114": {
+    "caption": "Agents and managers for artists, athletes, entertainers, and other public figures",
+    "trir": 0,
+    "dart": 0
+  },
+  "7115": {
+    "caption": "Independent artists, writers, and performers",
+    "trir": 1.7,
+    "dart": 0.9
+  },
+  "7131": {
+    "caption": "Amusement parks and arcades",
+    "trir": 6.3,
+    "dart": 4.7
+  },
+  "7132": {
+    "caption": "Gambling industries",
+    "trir": 2.6,
+    "dart": 1.5
+  },
+  "7139": {
+    "caption": "Other amusement and recreation industries",
+    "trir": 3.2,
+    "dart": 1.6
+  },
+  "7211": {
+    "caption": "Traveler accommodation",
+    "trir": 3.9,
+    "dart": 2.4
+  },
+  "7212": {
+    "caption": "RV (recreational vehicle) parks and recreational camps",
+    "trir": 2.8,
+    "dart": 1.1
+  },
+  "7223": {
+    "caption": "Special food services",
+    "trir": 2.2,
+    "dart": 1.3
+  },
+  "7224": {
+    "caption": "Drinking places (alcoholic beverages)",
+    "trir": 1.2,
+    "dart": 0.6
+  },
+  "7225": {
+    "caption": "Restaurants and other eating places",
+    "trir": 2.6,
+    "dart": 1.1
+  },
+  "8111": {
+    "caption": "Automotive repair and maintenance",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "8112": {
+    "caption": "Electronic and precision equipment repair and maintenance",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "8113": {
+    "caption": "Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance",
+    "trir": 2.1,
+    "dart": 1.2
+  },
+  "8114": {
+    "caption": "Personal and household goods repair and maintenance",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "8121": {
+    "caption": "Personal care services",
+    "trir": 0.6,
+    "dart": 0.5
+  },
+  "8122": {
+    "caption": "Death care services",
+    "trir": 1.7,
+    "dart": 1
+  },
+  "8123": {
+    "caption": "Drycleaning and laundry services",
+    "trir": 3.2,
+    "dart": 2.4
+  },
+  "8129": {
+    "caption": "Other personal services",
+    "trir": 0,
+    "dart": 0
+  },
+  "9221": {
+    "caption": "Justice, public order, and safety activities",
+    "trir": 6.2,
+    "dart": 4
+  },
+  "11211": {
+    "caption": "Beef cattle ranching and farming, including feedlots",
+    "trir": 5.3,
+    "dart": 3.6
+  },
+  "11212": {
+    "caption": "Dairy cattle and milk production",
+    "trir": 4.3,
+    "dart": 2.3
+  },
+  "11511": {
+    "caption": "Support activities for crop production",
+    "trir": 4.8,
+    "dart": 3.5
+  },
+  "21112": {
+    "caption": "Crude petroleum extraction",
+    "trir": 0.4,
+    "dart": 0.3
+  },
+  "21113": {
+    "caption": "Natural gas extraction",
+    "trir": 0.6,
+    "dart": 0.4
+  },
+  "21211": {
+    "caption": "Coal mining",
+    "trir": 3.2,
+    "dart": 2.4
+  },
+  "21221": {
+    "caption": "Iron ore mining",
+    "trir": 1.7,
+    "dart": 1.3
+  },
+  "21222": {
+    "caption": "Gold ore and silver ore mining",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "21223": {
+    "caption": "Copper, nickel, lead, and zinc mining",
+    "trir": 2.3,
+    "dart": 1.9
+  },
+  "21229": {
+    "caption": "Other metal ore mining",
+    "trir": 2.3,
+    "dart": 1.6
+  },
+  "21231": {
+    "caption": "Stone mining and quarrying",
+    "trir": 1.8,
+    "dart": 1.2
+  },
+  "21232": {
+    "caption": "Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "21239": {
+    "caption": "Other nonmetallic mineral mining and quarrying",
+    "trir": 2,
+    "dart": 1.4
+  },
+  "21311": {
+    "caption": "Support activities for mining",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "22111": {
+    "caption": "Electric power generation",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "22112": {
+    "caption": "Electric power transmission, control, and distribution",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "22131": {
+    "caption": "Water supply and irrigation systems",
+    "trir": 2.6,
+    "dart": 1.9
+  },
+  "22132": {
+    "caption": "Sewage treatment facilities",
+    "trir": 1.4,
+    "dart": 1.3
+  },
+  "23711": {
+    "caption": "Water and sewer line and related structures construction",
+    "trir": 2.9,
+    "dart": 2
+  },
+  "23712": {
+    "caption": "Oil and gas pipeline and related structures construction",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "23713": {
+    "caption": "Power and communication line and related structures construction",
+    "trir": 1.6,
+    "dart": 1
+  },
+  "23811": {
+    "caption": "Poured concrete foundation and structure contractors",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "23812": {
+    "caption": "Structural steel and precast concrete contractors",
+    "trir": 3.1,
+    "dart": 1.6
+  },
+  "23813": {
+    "caption": "Framing contractors",
+    "trir": 7.6,
+    "dart": 5.9
+  },
+  "23814": {
+    "caption": "Masonry contractors",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "23815": {
+    "caption": "Glass and glazing contractors",
+    "trir": 3.4,
+    "dart": 2.4
+  },
+  "23816": {
+    "caption": "Roofing contractors",
+    "trir": 3.6,
+    "dart": 2.7
+  },
+  "23817": {
+    "caption": "Siding contractors",
+    "trir": 2.8,
+    "dart": 1.8
+  },
+  "23821": {
+    "caption": "Electrical contractors and other wiring installation contractors",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "23822": {
+    "caption": "Plumbing, heating, and air-conditioning contractors",
+    "trir": 3.5,
+    "dart": 2.1
+  },
+  "23829": {
+    "caption": "Other building equipment contractors",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "23831": {
+    "caption": "Drywall and insulation contractors",
+    "trir": 3.4,
+    "dart": 2.4
+  },
+  "23832": {
+    "caption": "Painting and wall covering contractors",
+    "trir": 1.7,
+    "dart": 1.3
+  },
+  "23833": {
+    "caption": "Flooring contractors",
+    "trir": 1.6,
+    "dart": 0.9
+  },
+  "23834": {
+    "caption": "Tile and terrazzo contractors",
+    "trir": 2.2,
+    "dart": 1.6
+  },
+  "23835": {
+    "caption": "Finish carpentry contractors",
+    "trir": 3.7,
+    "dart": 2.5
+  },
+  "23839": {
+    "caption": "Other building finishing contractors",
+    "trir": 2.8,
+    "dart": 2
+  },
+  "23891": {
+    "caption": "Site preparation contractors",
+    "trir": 1.6,
+    "dart": 1
+  },
+  "23899": {
+    "caption": "All other specialty trade contractors",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "31111": {
+    "caption": "Animal food manufacturing",
+    "trir": 3.6,
+    "dart": 2.5
+  },
+  "31121": {
+    "caption": "Flour milling and malt manufacturing",
+    "trir": 4.7,
+    "dart": 3.7
+  },
+  "31122": {
+    "caption": "Starch and vegetable fats and oils manufacturing",
+    "trir": 2.4,
+    "dart": 1.8
+  },
+  "31123": {
+    "caption": "Breakfast cereal manufacturing",
+    "trir": 2.6,
+    "dart": 1.9
+  },
+  "31131": {
+    "caption": "Sugar manufacturing",
+    "trir": 2.9,
+    "dart": 1.6
+  },
+  "31134": {
+    "caption": "Nonchocolate confectionery manufacturing",
+    "trir": 3,
+    "dart": 2.1
+  },
+  "31135": {
+    "caption": "Chocolate and confectionery manufacturing",
+    "trir": 3.3,
+    "dart": 2.1
+  },
+  "31141": {
+    "caption": "Frozen food manufacturing",
+    "trir": 4.4,
+    "dart": 3.1
+  },
+  "31142": {
+    "caption": "Fruit and vegetable canning, pickling, and drying",
+    "trir": 4.8,
+    "dart": 3.5
+  },
+  "31151": {
+    "caption": "Dairy product (except frozen) manufacturing",
+    "trir": 4.9,
+    "dart": 3.4
+  },
+  "31152": {
+    "caption": "Ice cream and frozen dessert manufacturing",
+    "trir": 4.2,
+    "dart": 2.7
+  },
+  "31161": {
+    "caption": "Animal slaughtering and processing",
+    "trir": 5.9,
+    "dart": 4.8
+  },
+  "31181": {
+    "caption": "Bread and bakery product manufacturing",
+    "trir": 3.8,
+    "dart": 2.8
+  },
+  "31182": {
+    "caption": "Cookie, cracker, and pasta manufacturing",
+    "trir": 3.9,
+    "dart": 2.9
+  },
+  "31183": {
+    "caption": "Tortilla manufacturing",
+    "trir": 5.5,
+    "dart": 4.6
+  },
+  "31191": {
+    "caption": "Snack food manufacturing",
+    "trir": 4.7,
+    "dart": 3.4
+  },
+  "31192": {
+    "caption": "Coffee and tea manufacturing",
+    "trir": 2.7,
+    "dart": 2.1
+  },
+  "31194": {
+    "caption": "Seasoning and dressing manufacturing",
+    "trir": 3.7,
+    "dart": 2.8
+  },
+  "31199": {
+    "caption": "All other food manufacturing",
+    "trir": 4.9,
+    "dart": 3.5
+  },
+  "31211": {
+    "caption": "Soft drink and ice manufacturing",
+    "trir": 6.3,
+    "dart": 4.6
+  },
+  "31212": {
+    "caption": "Breweries",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "31213": {
+    "caption": "Wineries",
+    "trir": 2.9,
+    "dart": 2
+  },
+  "31214": {
+    "caption": "Distilleries",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "31321": {
+    "caption": "Broadwoven fabric mills",
+    "trir": 3.4,
+    "dart": 2
+  },
+  "31322": {
+    "caption": "Narrow fabric mills and schiffli machine embroidery",
+    "trir": 2.5,
+    "dart": 2.3
+  },
+  "31323": {
+    "caption": "Nonwoven fabric mills",
+    "trir": 2.7,
+    "dart": 1.8
+  },
+  "31324": {
+    "caption": "Knit fabric mills",
+    "trir": 2.5,
+    "dart": 1.5
+  },
+  "31331": {
+    "caption": "Textile and fabric finishing mills",
+    "trir": 1.7,
+    "dart": 1.1
+  },
+  "31332": {
+    "caption": "Fabric coating mills",
+    "trir": 3.8,
+    "dart": 2.3
+  },
+  "31411": {
+    "caption": "Carpet and rug mills",
+    "trir": 1.9,
+    "dart": 1.4
+  },
+  "31412": {
+    "caption": "Curtain and linen mills",
+    "trir": 2,
+    "dart": 1.1
+  },
+  "31491": {
+    "caption": "Textile bag and canvas mills",
+    "trir": 3.2,
+    "dart": 1.8
+  },
+  "31499": {
+    "caption": "All other textile product mills",
+    "trir": 0,
+    "dart": 0
+  },
+  "31511": {
+    "caption": "Hosiery and sock mills",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "31519": {
+    "caption": "Other apparel knitting mills",
+    "trir": 1.9,
+    "dart": 1.3
+  },
+  "31521": {
+    "caption": "Cut and sew apparel contractors",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "31524": {
+    "caption": "Women's, girls', and infants' cut and sew apparel manufacturing",
+    "trir": 1,
+    "dart": 0.8
+  },
+  "31528": {
+    "caption": "Other cut and sew apparel manufacturing",
+    "trir": 0.9,
+    "dart": 0.7
+  },
+  "31699": {
+    "caption": "Other leather and allied product manufacturing",
+    "trir": 3,
+    "dart": 2.2
+  },
+  "32111": {
+    "caption": "Sawmills and wood preservation",
+    "trir": 5.1,
+    "dart": 3.5
+  },
+  "32121": {
+    "caption": "Veneer, plywood, and engineered wood product manufacturing",
+    "trir": 4.8,
+    "dart": 3.3
+  },
+  "32191": {
+    "caption": "Millwork",
+    "trir": 5.2,
+    "dart": 3.4
+  },
+  "32192": {
+    "caption": "Wood container and pallet manufacturing",
+    "trir": 5.9,
+    "dart": 4
+  },
+  "32199": {
+    "caption": "All other wood product manufacturing",
+    "trir": 6.3,
+    "dart": 3.8
+  },
+  "32211": {
+    "caption": "Pulp mills",
+    "trir": 2.3,
+    "dart": 1.1
+  },
+  "32212": {
+    "caption": "Paper mills",
+    "trir": 2.7,
+    "dart": 2
+  },
+  "32213": {
+    "caption": "Paperboard mills",
+    "trir": 2.3,
+    "dart": 1.7
+  },
+  "32221": {
+    "caption": "Paperboard container manufacturing",
+    "trir": 2.6,
+    "dart": 1.7
+  },
+  "32222": {
+    "caption": "Paper bag and coated and treated paper manufacturing",
+    "trir": 2.2,
+    "dart": 1.4
+  },
+  "32223": {
+    "caption": "Stationery product manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "32229": {
+    "caption": "Other converted paper product manufacturing",
+    "trir": 2.6,
+    "dart": 1.9
+  },
+  "32311": {
+    "caption": "Printing",
+    "trir": 2.2,
+    "dart": 1.4
+  },
+  "32312": {
+    "caption": "Support activities for printing",
+    "trir": 1.5,
+    "dart": 1.2
+  },
+  "32411": {
+    "caption": "Petroleum refineries",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "32412": {
+    "caption": "Asphalt paving, roofing, and saturated materials manufacturing",
+    "trir": 2.2,
+    "dart": 1.2
+  },
+  "32419": {
+    "caption": "Other petroleum and coal products manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "32512": {
+    "caption": "Industrial gas manufacturing",
+    "trir": 1,
+    "dart": 0.8
+  },
+  "32513": {
+    "caption": "Synthetic dye and pigment manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "32518": {
+    "caption": "Other basic inorganic chemical manufacturing",
+    "trir": 1.3,
+    "dart": 1
+  },
+  "32519": {
+    "caption": "Other basic organic chemical manufacturing",
+    "trir": 2.6,
+    "dart": 1.8
+  },
+  "32521": {
+    "caption": "Resin and synthetic rubber manufacturing",
+    "trir": 1.5,
+    "dart": 1
+  },
+  "32522": {
+    "caption": "Artificial and synthetic fibers and filaments manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "32531": {
+    "caption": "Fertilizer manufacturing",
+    "trir": 2.1,
+    "dart": 1.1
+  },
+  "32532": {
+    "caption": "Pesticide and other agricultural chemical manufacturing",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "32541": {
+    "caption": "Pharmaceutical and medicine manufacturing",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "32551": {
+    "caption": "Paint and coating manufacturing",
+    "trir": 3.5,
+    "dart": 1.8
+  },
+  "32552": {
+    "caption": "Adhesive manufacturing",
+    "trir": 3.4,
+    "dart": 2
+  },
+  "32561": {
+    "caption": "Soap and cleaning compound manufacturing",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "32562": {
+    "caption": "Toilet preparation manufacturing",
+    "trir": 3.7,
+    "dart": 2.6
+  },
+  "32599": {
+    "caption": "All other chemical product and preparation manufacturing",
+    "trir": 2.3,
+    "dart": 1.5
+  },
+  "32611": {
+    "caption": "Plastics packaging materials and unlaminated film and sheet manufacturing",
+    "trir": 3.5,
+    "dart": 2.6
+  },
+  "32612": {
+    "caption": "Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",
+    "trir": 3,
+    "dart": 2
+  },
+  "32613": {
+    "caption": "Laminated plastics plate, sheet (except packaging), and shape manufacturing",
+    "trir": 2.9,
+    "dart": 1.7
+  },
+  "32614": {
+    "caption": "Polystyrene foam product manufacturing",
+    "trir": 3.4,
+    "dart": 2.4
+  },
+  "32615": {
+    "caption": "Urethane and other foam product (except polystyrene) manufacturing",
+    "trir": 4,
+    "dart": 2.6
+  },
+  "32616": {
+    "caption": "Plastics bottle manufacturing",
+    "trir": 3,
+    "dart": 1.5
+  },
+  "32619": {
+    "caption": "Other plastics product manufacturing",
+    "trir": 3.5,
+    "dart": 2.3
+  },
+  "32621": {
+    "caption": "Tire manufacturing",
+    "trir": 3.4,
+    "dart": 2.5
+  },
+  "32622": {
+    "caption": "Rubber and plastics hoses and belting manufacturing",
+    "trir": 3.1,
+    "dart": 1.9
+  },
+  "32629": {
+    "caption": "Other rubber product manufacturing",
+    "trir": 3.6,
+    "dart": 2.5
+  },
+  "32711": {
+    "caption": "Pottery, ceramics, and plumbing fixture manufacturing",
+    "trir": 2.4,
+    "dart": 1.5
+  },
+  "32712": {
+    "caption": "Clay building material and refractories manufacturing",
+    "trir": 3.3,
+    "dart": 2.4
+  },
+  "32721": {
+    "caption": "Glass and glass product manufacturing",
+    "trir": 3.5,
+    "dart": 2.4
+  },
+  "32732": {
+    "caption": "Ready-mix concrete manufacturing",
+    "trir": 4.9,
+    "dart": 3.9
+  },
+  "32733": {
+    "caption": "Concrete pipe, brick, and block manufacturing",
+    "trir": 3.9,
+    "dart": 2
+  },
+  "32739": {
+    "caption": "Other concrete product manufacturing",
+    "trir": 5.8,
+    "dart": 4.3
+  },
+  "32742": {
+    "caption": "Gypsum product manufacturing",
+    "trir": 3.5,
+    "dart": 2.7
+  },
+  "32791": {
+    "caption": "Abrasive product manufacturing",
+    "trir": 4.3,
+    "dart": 2.9
+  },
+  "32799": {
+    "caption": "All other nonmetallic mineral product manufacturing",
+    "trir": 3.6,
+    "dart": 2.6
+  },
+  "33121": {
+    "caption": "Iron and steel pipe and tube manufacturing from purchased steel",
+    "trir": 4.2,
+    "dart": 2.6
+  },
+  "33122": {
+    "caption": "Rolling and drawing of purchased steel",
+    "trir": 2.8,
+    "dart": 1.8
+  },
+  "33131": {
+    "caption": "Alumina and aluminum production and processing",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "33141": {
+    "caption": "Nonferrous metal (except aluminum) smelting and refining",
+    "trir": 2.8,
+    "dart": 2
+  },
+  "33142": {
+    "caption": "Copper rolling, drawing, extruding, and alloying",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "33149": {
+    "caption": "Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying",
+    "trir": 4.3,
+    "dart": 2.6
+  },
+  "33151": {
+    "caption": "Ferrous metal foundries",
+    "trir": 7.5,
+    "dart": 3.9
+  },
+  "33152": {
+    "caption": "Nonferrous metal foundries",
+    "trir": 5.3,
+    "dart": 3.3
+  },
+  "33211": {
+    "caption": "Forging and stamping",
+    "trir": 4.2,
+    "dart": 2.6
+  },
+  "33221": {
+    "caption": "Cutlery and handtool manufacturing",
+    "trir": 4.4,
+    "dart": 2.3
+  },
+  "33231": {
+    "caption": "Plate work and fabricated structural product manufacturing",
+    "trir": 4.5,
+    "dart": 2.5
+  },
+  "33232": {
+    "caption": "Ornamental and architectural metal products manufacturing",
+    "trir": 4,
+    "dart": 2.2
+  },
+  "33241": {
+    "caption": "Power boiler and heat exchanger manufacturing",
+    "trir": 3.1,
+    "dart": 1
+  },
+  "33242": {
+    "caption": "Metal tank (heavy gauge) manufacturing",
+    "trir": 3.8,
+    "dart": 2.2
+  },
+  "33243": {
+    "caption": "Metal can, box, and other metal container (light gauge) manufacturing",
+    "trir": 3.7,
+    "dart": 2.5
+  },
+  "33261": {
+    "caption": "Spring and wire product manufacturing",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "33271": {
+    "caption": "Machine shops",
+    "trir": 3,
+    "dart": 1.3
+  },
+  "33272": {
+    "caption": "Turned product and screw, nut, and bolt manufacturing",
+    "trir": 3.3,
+    "dart": 1.8
+  },
+  "33281": {
+    "caption": "Coating, engraving, heat treating, and allied activities",
+    "trir": 4.1,
+    "dart": 2.7
+  },
+  "33291": {
+    "caption": "Metal valve manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "33299": {
+    "caption": "All other fabricated metal product manufacturing",
+    "trir": 3.1,
+    "dart": 1.6
+  },
+  "33311": {
+    "caption": "Agricultural implement manufacturing",
+    "trir": 4.5,
+    "dart": 2.7
+  },
+  "33312": {
+    "caption": "Construction machinery manufacturing",
+    "trir": 4.8,
+    "dart": 2.7
+  },
+  "33313": {
+    "caption": "Mining and oil and gas field machinery manufacturing",
+    "trir": 1.5,
+    "dart": 1.1
+  },
+  "33324": {
+    "caption": "Industrial machinery manufacturing",
+    "trir": 2.4,
+    "dart": 1.3
+  },
+  "33331": {
+    "caption": "Commercial and service caption machinery manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "33341": {
+    "caption": "Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing",
+    "trir": 2.9,
+    "dart": 1.8
+  },
+  "33351": {
+    "caption": "Metalworking machinery manufacturing",
+    "trir": 2.7,
+    "dart": 1.3
+  },
+  "33361": {
+    "caption": "Engine, turbine, and power transmission equipment manufacturing",
+    "trir": 2.4,
+    "dart": 1.5
+  },
+  "33391": {
+    "caption": "Pump and compressor manufacturing",
+    "trir": 2.3,
+    "dart": 1.5
+  },
+  "33392": {
+    "caption": "Material handling equipment manufacturing",
+    "trir": 3.5,
+    "dart": 2.2
+  },
+  "33399": {
+    "caption": "All other general purpose machinery manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "33411": {
+    "caption": "Computer and peripheral equipment manufacturing",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "33422": {
+    "caption": "Radio and television broadcasting and wireless communications equipment manufacturing",
+    "trir": 0.6,
+    "dart": 0.4
+  },
+  "33429": {
+    "caption": "Other communications equipment manufacturing",
+    "trir": 0.9,
+    "dart": 0.5
+  },
+  "33441": {
+    "caption": "Semiconductor and other electronic component manufacturing",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "33451": {
+    "caption": "Navigational, measuring, electromedical, and control instruments manufacturing",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "33461": {
+    "caption": "Manufacturing and reproducing magnetic and optical media",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "33511": {
+    "caption": "Electric lamp bulb and part manufacturing",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "33512": {
+    "caption": "Lighting fixture manufacturing",
+    "trir": 3.4,
+    "dart": 2.6
+  },
+  "33521": {
+    "caption": "Small electrical appliance manufacturing",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "33522": {
+    "caption": "Major household appliance manufacturing",
+    "trir": 2.2,
+    "dart": 1.3
+  },
+  "33531": {
+    "caption": "Electrical equipment manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "33591": {
+    "caption": "Battery manufacturing",
+    "trir": 3,
+    "dart": 1.9
+  },
+  "33592": {
+    "caption": "Communication and energy wire and cable manufacturing",
+    "trir": 2.8,
+    "dart": 1.6
+  },
+  "33593": {
+    "caption": "Wiring device manufacturing",
+    "trir": 3.4,
+    "dart": 1.8
+  },
+  "33599": {
+    "caption": "All other electrical equipment and component manufacturing",
+    "trir": 1.8,
+    "dart": 0.7
+  },
+  "33611": {
+    "caption": "Automobile and light duty motor vehicle manufacturing",
+    "trir": 5.8,
+    "dart": 4.2
+  },
+  "33612": {
+    "caption": "Heavy duty truck manufacturing",
+    "trir": 4.3,
+    "dart": 2.9
+  },
+  "33621": {
+    "caption": "Motor vehicle body and trailer manufacturing",
+    "trir": 6.1,
+    "dart": 3.4
+  },
+  "33631": {
+    "caption": "Motor vehicle gasoline engine and engine parts manufacturing",
+    "trir": 3.7,
+    "dart": 2.3
+  },
+  "33632": {
+    "caption": "Motor vehicle electrical and electronic equipment manufacturing",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "33633": {
+    "caption": "Motor vehicle steering and suspension components (except spring) manufacturing",
+    "trir": 2.8,
+    "dart": 1.9
+  },
+  "33634": {
+    "caption": "Motor vehicle brake system manufacturing",
+    "trir": 2.8,
+    "dart": 1.4
+  },
+  "33635": {
+    "caption": "Motor vehicle transmission and power train parts manufacturing",
+    "trir": 2.6,
+    "dart": 1.7
+  },
+  "33636": {
+    "caption": "Motor vehicle seating and interior trim manufacturing",
+    "trir": 3.3,
+    "dart": 2.2
+  },
+  "33637": {
+    "caption": "Motor vehicle metal stamping",
+    "trir": 4.6,
+    "dart": 2.5
+  },
+  "33639": {
+    "caption": "Other motor vehicle parts manufacturing",
+    "trir": 3.3,
+    "dart": 2.3
+  },
+  "33641": {
+    "caption": "Aerospace product and parts manufacturing",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "33661": {
+    "caption": "Ship and boat building",
+    "trir": 6.4,
+    "dart": 4.7
+  },
+  "33699": {
+    "caption": "Other transportation equipment manufacturing",
+    "trir": 3.4,
+    "dart": 2.1
+  },
+  "33711": {
+    "caption": "Wood kitchen cabinet and countertop manufacturing",
+    "trir": 3.4,
+    "dart": 1.9
+  },
+  "33712": {
+    "caption": "Household and institutional furniture manufacturing",
+    "trir": 4.4,
+    "dart": 2.8
+  },
+  "33721": {
+    "caption": "Office furniture (including fixtures) manufacturing",
+    "trir": 4.1,
+    "dart": 2.6
+  },
+  "33791": {
+    "caption": "Mattress manufacturing",
+    "trir": 3.5,
+    "dart": 1.9
+  },
+  "33792": {
+    "caption": "Blind and shade manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "33911": {
+    "caption": "Medical equipment and supplies manufacturing",
+    "trir": 1.5,
+    "dart": 1
+  },
+  "33992": {
+    "caption": "Sporting and athletic goods manufacturing",
+    "trir": 3.2,
+    "dart": 2.1
+  },
+  "33993": {
+    "caption": "Doll, toy, and game manufacturing",
+    "trir": 2,
+    "dart": 1.3
+  },
+  "33995": {
+    "caption": "Sign manufacturing",
+    "trir": 2.8,
+    "dart": 1.6
+  },
+  "33999": {
+    "caption": "All other miscellaneous manufacturing",
+    "trir": 0,
+    "dart": 0
+  },
+  "42391": {
+    "caption": "Sporting and recreational goods and supplies merchant wholesalers",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "42392": {
+    "caption": "Toy and hobby goods and supplies merchant wholesalers",
+    "trir": 0.9,
+    "dart": 0.4
+  },
+  "42393": {
+    "caption": "Recyclable material merchant wholesalers",
+    "trir": 4.1,
+    "dart": 2.7
+  },
+  "42399": {
+    "caption": "Other miscellaneous durable goods merchant wholesalers",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "44111": {
+    "caption": "New car dealers",
+    "trir": 2.6,
+    "dart": 1.5
+  },
+  "44112": {
+    "caption": "Used car dealers",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "44121": {
+    "caption": "Recreational vehicle dealers",
+    "trir": 3.6,
+    "dart": 2.2
+  },
+  "44122": {
+    "caption": "Motorcycle, boat, and other motor vehicle dealers",
+    "trir": 3.3,
+    "dart": 2.1
+  },
+  "44131": {
+    "caption": "Automotive parts and accessories stores",
+    "trir": 2.8,
+    "dart": 2.2
+  },
+  "44132": {
+    "caption": "Tire dealers",
+    "trir": 6.4,
+    "dart": 3.8
+  },
+  "44221": {
+    "caption": "Floor covering stores",
+    "trir": 2.1,
+    "dart": 1.2
+  },
+  "44229": {
+    "caption": "Other home furnishings stores",
+    "trir": 2.9,
+    "dart": 1.4
+  },
+  "44314": {
+    "caption": "Electronics and appliance stores",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "44411": {
+    "caption": "Home centers",
+    "trir": 5.4,
+    "dart": 3.8
+  },
+  "44412": {
+    "caption": "Paint and wallpaper stores",
+    "trir": 1.3,
+    "dart": 1.1
+  },
+  "44413": {
+    "caption": "Hardware stores",
+    "trir": 4,
+    "dart": 1.8
+  },
+  "44419": {
+    "caption": "Other building material dealers",
+    "trir": 3.8,
+    "dart": 2.8
+  },
+  "44421": {
+    "caption": "Outdoor power equipment stores",
+    "trir": 0.7,
+    "dart": 0.3
+  },
+  "44422": {
+    "caption": "Nursery, garden center, and farm supply stores",
+    "trir": 5,
+    "dart": 2.6
+  },
+  "44511": {
+    "caption": "Supermarkets and other grocery (except convenience) stores",
+    "trir": 5.1,
+    "dart": 3.6
+  },
+  "44512": {
+    "caption": "Convenience stores",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "44521": {
+    "caption": "Meat markets",
+    "trir": 2,
+    "dart": 1.3
+  },
+  "44523": {
+    "caption": "Fruit and vegetable markets",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "44529": {
+    "caption": "Other specialty food stores",
+    "trir": 0.9,
+    "dart": 0.5
+  },
+  "44611": {
+    "caption": "Pharmacies and drug stores",
+    "trir": 2.2,
+    "dart": 0.8
+  },
+  "44612": {
+    "caption": "Cosmetics, beauty supplies, and perfume stores",
+    "trir": 1.1,
+    "dart": 0.5
+  },
+  "44619": {
+    "caption": "Other health and personal care stores",
+    "trir": 2.1,
+    "dart": 1.9
+  },
+  "44711": {
+    "caption": "Gasoline stations with convenience stores",
+    "trir": 2.2,
+    "dart": 1
+  },
+  "44719": {
+    "caption": "Other gasoline stations",
+    "trir": 1.7,
+    "dart": 1
+  },
+  "44812": {
+    "caption": "Women's clothing stores",
+    "trir": 2.1,
+    "dart": 0.7
+  },
+  "44814": {
+    "caption": "Family clothing stores",
+    "trir": 1.6,
+    "dart": 0.6
+  },
+  "44819": {
+    "caption": "Other clothing stores",
+    "trir": 0.7,
+    "dart": 0.5
+  },
+  "44831": {
+    "caption": "Jewelry stores",
+    "trir": 1.1,
+    "dart": 0.9
+  },
+  "45111": {
+    "caption": "Sporting goods stores",
+    "trir": 3.1,
+    "dart": 2
+  },
+  "45112": {
+    "caption": "Hobby, toy, and game stores",
+    "trir": 3.6,
+    "dart": 2.7
+  },
+  "45114": {
+    "caption": "Musical instrument and supplies stores",
+    "trir": 0.9,
+    "dart": 0.2
+  },
+  "45121": {
+    "caption": "Book stores and news dealers",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "45231": {
+    "caption": "General merchandise stores, including warehouse clubs and supercenters",
+    "trir": 5.7,
+    "dart": 3.4
+  },
+  "45321": {
+    "caption": "Office supplies and stationery stores",
+    "trir": 1.7,
+    "dart": 1.5
+  },
+  "45322": {
+    "caption": "Gift, novelty, and souvenir stores",
+    "trir": 2,
+    "dart": 1.1
+  },
+  "45391": {
+    "caption": "Pet and pet supplies stores",
+    "trir": 6.2,
+    "dart": 4
+  },
+  "45393": {
+    "caption": "Manufactured (mobile) home dealers",
+    "trir": 3.9,
+    "dart": 3.5
+  },
+  "45399": {
+    "caption": "All other miscellaneous store retailers",
+    "trir": 1.5,
+    "dart": 0.6
+  },
+  "45431": {
+    "caption": "Fuel dealers",
+    "trir": 4.2,
+    "dart": 2.9
+  },
+  "45439": {
+    "caption": "Other direct selling establishments",
+    "trir": 1,
+    "dart": 0.6
+  },
+  "48111": {
+    "caption": "Scheduled air transportation",
+    "trir": 6.8,
+    "dart": 5.7
+  },
+  "48311": {
+    "caption": "Deep sea, coastal, and great lakes water transportation",
+    "trir": 0,
+    "dart": 0
+  },
+  "48321": {
+    "caption": "Inland water transportation",
+    "trir": 3.5,
+    "dart": 2.5
+  },
+  "48411": {
+    "caption": "General freight trucking, local",
+    "trir": 3.4,
+    "dart": 2.6
+  },
+  "48412": {
+    "caption": "General freight trucking, long-distance",
+    "trir": 3.6,
+    "dart": 2.8
+  },
+  "48421": {
+    "caption": "Used household and office goods moving",
+    "trir": 6.8,
+    "dart": 5.3
+  },
+  "48422": {
+    "caption": "Specialized freight (except used goods) trucking, local",
+    "trir": 3.3,
+    "dart": 2.6
+  },
+  "48423": {
+    "caption": "Specialized freight (except used goods) trucking, long-distance",
+    "trir": 2.3,
+    "dart": 1.3
+  },
+  "48531": {
+    "caption": "Taxi service",
+    "trir": 3.9,
+    "dart": 3.3
+  },
+  "48831": {
+    "caption": "Port and harbor operations",
+    "trir": 5.3,
+    "dart": 4.9
+  },
+  "48832": {
+    "caption": "Marine cargo handling",
+    "trir": 3.3,
+    "dart": 2.2
+  },
+  "48833": {
+    "caption": "Navigational services to shipping",
+    "trir": 3.2,
+    "dart": 2.7
+  },
+  "48839": {
+    "caption": "Other support activities for water transportation",
+    "trir": 2.1,
+    "dart": 1.6
+  },
+  "48841": {
+    "caption": "Motor vehicle towing",
+    "trir": 1.9,
+    "dart": 1.4
+  },
+  "49311": {
+    "caption": "General warehousing and storage",
+    "trir": 5.6,
+    "dart": 4.7
+  },
+  "49312": {
+    "caption": "Refrigerated warehousing and storage",
+    "trir": 5.3,
+    "dart": 4.5
+  },
+  "49319": {
+    "caption": "Other warehousing and storage",
+    "trir": 4,
+    "dart": 3.2
+  },
+  "51111": {
+    "caption": "Newspaper publishers",
+    "trir": 1.5,
+    "dart": 1.1
+  },
+  "51113": {
+    "caption": "Book publishers",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "51114": {
+    "caption": "Directory and mailing list publishers",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "51223": {
+    "caption": "Music publishers",
+    "trir": 0.8,
+    "dart": 0.5
+  },
+  "51512": {
+    "caption": "Television broadcasting",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "51731": {
+    "caption": "Wired and wireless telecommunications carriers",
+    "trir": 1.9,
+    "dart": 1.4
+  },
+  "51912": {
+    "caption": "Libraries and archives",
+    "trir": 1.9,
+    "dart": 0.8
+  },
+  "51913": {
+    "caption": "Internet publishing and broadcasting and web search portals",
+    "trir": 0,
+    "dart": 0
+  },
+  "52211": {
+    "caption": "Commercial banking",
+    "trir": 0,
+    "dart": 0.2
+  },
+  "52213": {
+    "caption": "Credit unions",
+    "trir": 0.6,
+    "dart": 0.4
+  },
+  "52221": {
+    "caption": "Credit card issuing",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "52222": {
+    "caption": "Sales financing",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "52229": {
+    "caption": "Other nondepository credit intermediation",
+    "trir": 0.5,
+    "dart": 0.5
+  },
+  "52311": {
+    "caption": "Investment banking and securities dealing",
+    "trir": 0,
+    "dart": 0
+  },
+  "52312": {
+    "caption": "Securities brokerage",
+    "trir": 0,
+    "dart": 0
+  },
+  "52411": {
+    "caption": "Direct life, health, and medical insurance carriers",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "52412": {
+    "caption": "Direct insurance (except life, health, and medical) carriers",
+    "trir": 0.5,
+    "dart": 0.2
+  },
+  "52421": {
+    "caption": "Insurance agencies and brokerages",
+    "trir": 0,
+    "dart": 0.2
+  },
+  "52429": {
+    "caption": "Other insurance related activities",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "53111": {
+    "caption": "Lessors of residential buildings and dwellings",
+    "trir": 2.4,
+    "dart": 1.2
+  },
+  "53112": {
+    "caption": "Lessors of nonresidential buildings (except miniwarehouses)",
+    "trir": 1.9,
+    "dart": 1.3
+  },
+  "53113": {
+    "caption": "Lessors of miniwarehouses and self-storage units",
+    "trir": 1.5,
+    "dart": 1.2
+  },
+  "53119": {
+    "caption": "Lessors of other real estate property",
+    "trir": 3.9,
+    "dart": 1.5
+  },
+  "53131": {
+    "caption": "Real estate property managers",
+    "trir": 2.4,
+    "dart": 1.2
+  },
+  "53139": {
+    "caption": "Other activities related to real estate",
+    "trir": 1.1,
+    "dart": 0.4
+  },
+  "53211": {
+    "caption": "Passenger car rental and leasing",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "53212": {
+    "caption": "Truck, utility trailer, and RV (recreational vehicle) rental and leasing",
+    "trir": 5.2,
+    "dart": 3.7
+  },
+  "53221": {
+    "caption": "Consumer electronics and appliances rental",
+    "trir": 2,
+    "dart": 1.3
+  },
+  "53228": {
+    "caption": "Other consumer goods rental",
+    "trir": 2.7,
+    "dart": 2.3
+  },
+  "53241": {
+    "caption": "Construction, transportation, mining, and forestry machinery and equipment rental and leasing",
+    "trir": 1.9,
+    "dart": 1
+  },
+  "53249": {
+    "caption": "Other commercial and industrial machinery and equipment rental and leasing",
+    "trir": 1.7,
+    "dart": 1.3
+  },
+  "54121": {
+    "caption": "Accounting, tax preparation, bookkeeping, and payroll services",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "54133": {
+    "caption": "Engineering services",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "54136": {
+    "caption": "Geophysical surveying and mapping services",
+    "trir": 2.6,
+    "dart": 2.6
+  },
+  "54137": {
+    "caption": "Surveying and mapping (except geophysical) services",
+    "trir": 1,
+    "dart": 0.9
+  },
+  "54138": {
+    "caption": "Testing laboratories",
+    "trir": 0.7,
+    "dart": 0.4
+  },
+  "54151": {
+    "caption": "Computer systems design and related services",
+    "trir": 0.3,
+    "dart": 0.1
+  },
+  "54161": {
+    "caption": "Management consulting services",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "54162": {
+    "caption": "Environmental consulting services",
+    "trir": 0.5,
+    "dart": 0.4
+  },
+  "54194": {
+    "caption": "Veterinary services",
+    "trir": 13.8,
+    "dart": 4
+  },
+  "56131": {
+    "caption": "Employment placement agencies and executive search services",
+    "trir": 0.6,
+    "dart": 0.5
+  },
+  "56132": {
+    "caption": "Temporary help services",
+    "trir": 0.8,
+    "dart": 0.5
+  },
+  "56133": {
+    "caption": "Professional employer organizations",
+    "trir": 1.2,
+    "dart": 0.5
+  },
+  "56142": {
+    "caption": "Telephone call centers",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "56143": {
+    "caption": "Business service centers",
+    "trir": 1.5,
+    "dart": 1.3
+  },
+  "56144": {
+    "caption": "Collection agencies",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "56149": {
+    "caption": "Other business support services",
+    "trir": 1.5,
+    "dart": 1.2
+  },
+  "56151": {
+    "caption": "Travel agencies",
+    "trir": 0,
+    "dart": 0
+  },
+  "56159": {
+    "caption": "Other travel arrangement and reservation services",
+    "trir": 1.1,
+    "dart": 0.7
+  },
+  "56161": {
+    "caption": "Investigation, guard, and armored car services",
+    "trir": 1.5,
+    "dart": 0.7
+  },
+  "56162": {
+    "caption": "Security systems services",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "56171": {
+    "caption": "Exterminating and pest control services",
+    "trir": 2.7,
+    "dart": 1.8
+  },
+  "56172": {
+    "caption": "Janitorial services",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "56173": {
+    "caption": "Landscaping services",
+    "trir": 3.2,
+    "dart": 2
+  },
+  "56174": {
+    "caption": "Carpet and upholstery cleaning services",
+    "trir": 2.7,
+    "dart": 2.4
+  },
+  "56179": {
+    "caption": "Other services to buildings and dwellings",
+    "trir": 2.5,
+    "dart": 1.9
+  },
+  "56211": {
+    "caption": "Waste collection",
+    "trir": 3.8,
+    "dart": 2.8
+  },
+  "56221": {
+    "caption": "Waste treatment and disposal",
+    "trir": 2.6,
+    "dart": 1.9
+  },
+  "56291": {
+    "caption": "Remediation services",
+    "trir": 2.4,
+    "dart": 1.9
+  },
+  "56292": {
+    "caption": "Materials recovery facilities",
+    "trir": 3.2,
+    "dart": 3
+  },
+  "56299": {
+    "caption": "All other waste management services",
+    "trir": 3,
+    "dart": 1.9
+  },
+  "61162": {
+    "caption": "Sports and recreation instruction",
+    "trir": 1.7,
+    "dart": 1.5
+  },
+  "61169": {
+    "caption": "All other schools and instruction",
+    "trir": 0.9,
+    "dart": 0.8
+  },
+  "62111": {
+    "caption": "Offices of physicians",
+    "trir": 2,
+    "dart": 0.7
+  },
+  "62191": {
+    "caption": "Ambulance services",
+    "trir": 10.5,
+    "dart": 8
+  },
+  "62199": {
+    "caption": "All other ambulatory health care services",
+    "trir": 3.7,
+    "dart": 1.9
+  },
+  "62411": {
+    "caption": "Child and youth services",
+    "trir": 2.1,
+    "dart": 1.2
+  },
+  "62412": {
+    "caption": "Services for the elderly and persons with disabilities",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "62419": {
+    "caption": "Other individual and family services",
+    "trir": 1.9,
+    "dart": 1
+  },
+  "62421": {
+    "caption": "Community food services",
+    "trir": 3.1,
+    "dart": 2.5
+  },
+  "62422": {
+    "caption": "Community housing services",
+    "trir": 3.1,
+    "dart": 1.3
+  },
+  "62423": {
+    "caption": "Emergency and other relief services",
+    "trir": 1.8,
+    "dart": 0.8
+  },
+  "71121": {
+    "caption": "Spectator sports",
+    "trir": 11.1,
+    "dart": 6.7
+  },
+  "71311": {
+    "caption": "Amusement and theme parks",
+    "trir": 6.7,
+    "dart": 5.3
+  },
+  "71312": {
+    "caption": "Amusement arcades",
+    "trir": 3.6,
+    "dart": 0.8
+  },
+  "71391": {
+    "caption": "Golf courses and country clubs",
+    "trir": 3.7,
+    "dart": 1.8
+  },
+  "71392": {
+    "caption": "Skiing facilities",
+    "trir": 10.5,
+    "dart": 6.4
+  },
+  "71393": {
+    "caption": "Marinas",
+    "trir": 4.5,
+    "dart": 3.7
+  },
+  "71394": {
+    "caption": "Fitness and recreational sports centers",
+    "trir": 1.7,
+    "dart": 0.6
+  },
+  "71399": {
+    "caption": "All other amusement and recreation industries",
+    "trir": 4.1,
+    "dart": 1.8
+  },
+  "72111": {
+    "caption": "Hotels (except casino hotels) and motels",
+    "trir": 4,
+    "dart": 2.5
+  },
+  "72112": {
+    "caption": "Casino hotels",
+    "trir": 3.5,
+    "dart": 2.3
+  },
+  "72121": {
+    "caption": "RV (recreational vehicle) parks and recreational camps",
+    "trir": 2.8,
+    "dart": 1.1
+  },
+  "72251": {
+    "caption": "Restaurants and other eating places",
+    "trir": 2.6,
+    "dart": 1.1
+  },
+  "81231": {
+    "caption": "Coin-operated laundries and drycleaners",
+    "trir": 3.9,
+    "dart": 2.2
+  },
+  "81232": {
+    "caption": "Drycleaning and laundry services (except coin-operated)",
+    "trir": 1,
+    "dart": 0.8
+  },
+  "81233": {
+    "caption": "Linen and uniform supply",
+    "trir": 4.3,
+    "dart": 3.3
+  },
+  "81292": {
+    "caption": "Photofinishing",
+    "trir": 0.9,
+    "dart": 0.5
+  },
+  "81293": {
+    "caption": "Parking lots and garages",
+    "trir": 1.1,
+    "dart": 0.8
+  },
+  "81299": {
+    "caption": "All other personal services",
+    "trir": 0.2,
+    "dart": 0.2
+  },
+  "92214": {
+    "caption": "Correctional institutions",
+    "trir": 8.4,
+    "dart": 5.4
+  },
+  "115112": {
+    "caption": "Soil preparation, planting, and cultivating",
+    "trir": 2.7,
+    "dart": 2.1
+  },
+  "115114": {
+    "caption": "Postharvest crop activities (except cotton ginning)",
+    "trir": 5.8,
+    "dart": 4.3
+  },
+  "115115": {
+    "caption": "Farm labor contractors and crew leaders",
+    "trir": 4.6,
+    "dart": 3.6
+  },
+  "115116": {
+    "caption": "Farm management services",
+    "trir": 3.6,
+    "dart": 2.4
+  },
+  "212111": {
+    "caption": "Bituminous coal and lignite surface mining",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "212112": {
+    "caption": "Bituminous coal underground mining",
+    "trir": 4.7,
+    "dart": 3.6
+  },
+  "212113": {
+    "caption": "Anthracite mining",
+    "trir": 2.5,
+    "dart": 1.9
+  },
+  "212221": {
+    "caption": "Gold ore mining",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "212222": {
+    "caption": "Silver ore mining",
+    "trir": 2.3,
+    "dart": 1.4
+  },
+  "212291": {
+    "caption": "Uranium-radium-vanadium ore mining",
+    "trir": 0,
+    "dart": 0
+  },
+  "212299": {
+    "caption": "All other metal ore mining",
+    "trir": 2.4,
+    "dart": 1.6
+  },
+  "212311": {
+    "caption": "Dimension stone mining and quarrying",
+    "trir": 2.2,
+    "dart": 1.6
+  },
+  "212312": {
+    "caption": "Crushed and broken limestone mining and quarrying",
+    "trir": 1.7,
+    "dart": 1.2
+  },
+  "212313": {
+    "caption": "Crushed and broken granite mining and quarrying",
+    "trir": 1.5,
+    "dart": 1.1
+  },
+  "212319": {
+    "caption": "Other crushed and broken stone mining and quarrying",
+    "trir": 1.8,
+    "dart": 1.4
+  },
+  "212321": {
+    "caption": "Construction sand and gravel mining",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "212324": {
+    "caption": "Kaolin and ball clay mining",
+    "trir": 1.5,
+    "dart": 1.2
+  },
+  "212325": {
+    "caption": "Clay and ceramic and refractory minerals mining",
+    "trir": 2.4,
+    "dart": 1.5
+  },
+  "212391": {
+    "caption": "Potash, soda, and borate mineral mining",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "212392": {
+    "caption": "Phosphate rock mining",
+    "trir": 1.5,
+    "dart": 1.3
+  },
+  "212393": {
+    "caption": "Other chemical and fertilizer mineral mining",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "212399": {
+    "caption": "All other nonmetallic mineral mining",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "213112": {
+    "caption": "Support activities for oil and gas operations",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "221112": {
+    "caption": "Fossil fuel electric power generation",
+    "trir": 1.8,
+    "dart": 1.2
+  },
+  "221113": {
+    "caption": "Nuclear electric power generation",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "311111": {
+    "caption": "Dog and cat food manufacturing",
+    "trir": 2.9,
+    "dart": 2
+  },
+  "311119": {
+    "caption": "Other animal food manufacturing",
+    "trir": 4.2,
+    "dart": 2.9
+  },
+  "311211": {
+    "caption": "Flour milling",
+    "trir": 5,
+    "dart": 4.2
+  },
+  "311212": {
+    "caption": "Rice milling",
+    "trir": 3.6,
+    "dart": 2.3
+  },
+  "311224": {
+    "caption": "Soybean and other oilseed processing",
+    "trir": 4.3,
+    "dart": 3.3
+  },
+  "311225": {
+    "caption": "Fats and oils refining and blending",
+    "trir": 1.9,
+    "dart": 1.6
+  },
+  "311313": {
+    "caption": "Beet sugar manufacturing",
+    "trir": 4,
+    "dart": 2
+  },
+  "311314": {
+    "caption": "Cane sugar manufacturing",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "311351": {
+    "caption": "Chocolate and confectionery manufacturing from cacao beans",
+    "trir": 4.1,
+    "dart": 2.4
+  },
+  "311352": {
+    "caption": "Confectionery manufacturing from purchased chocolate",
+    "trir": 3.1,
+    "dart": 2
+  },
+  "311411": {
+    "caption": "Frozen fruit, juice, and vegetable manufacturing",
+    "trir": 5,
+    "dart": 3.6
+  },
+  "311412": {
+    "caption": "Frozen specialty food manufacturing",
+    "trir": 4.1,
+    "dart": 2.9
+  },
+  "311421": {
+    "caption": "Fruit and vegetable canning",
+    "trir": 4.8,
+    "dart": 3.5
+  },
+  "311422": {
+    "caption": "Specialty canning",
+    "trir": 2.5,
+    "dart": 1.7
+  },
+  "311423": {
+    "caption": "Dried and dehydrated food manufacturing",
+    "trir": 7.3,
+    "dart": 5.2
+  },
+  "311511": {
+    "caption": "Fluid milk manufacturing",
+    "trir": 5.1,
+    "dart": 3.6
+  },
+  "311513": {
+    "caption": "Cheese manufacturing",
+    "trir": 5.4,
+    "dart": 3.7
+  },
+  "311514": {
+    "caption": "Dry, condensed, and evaporated dairy product manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "311611": {
+    "caption": "Animal (except poultry) slaughtering",
+    "trir": 6.8,
+    "dart": 5.4
+  },
+  "311612": {
+    "caption": "Meat processed from carcasses",
+    "trir": 5.2,
+    "dart": 4.3
+  },
+  "311613": {
+    "caption": "Rendering and meat byproduct processing",
+    "trir": 5.6,
+    "dart": 4.7
+  },
+  "311615": {
+    "caption": "Poultry processing",
+    "trir": 5.7,
+    "dart": 4.6
+  },
+  "311811": {
+    "caption": "Retail bakeries",
+    "trir": 2,
+    "dart": 1
+  },
+  "311812": {
+    "caption": "Commercial bakeries",
+    "trir": 4.6,
+    "dart": 3.6
+  },
+  "311813": {
+    "caption": "Frozen cakes, pies, and other pastries manufacturing",
+    "trir": 5.8,
+    "dart": 4.3
+  },
+  "311821": {
+    "caption": "Cookie and cracker manufacturing",
+    "trir": 3.3,
+    "dart": 2.6
+  },
+  "311919": {
+    "caption": "Other snack food manufacturing",
+    "trir": 4.9,
+    "dart": 3.5
+  },
+  "311941": {
+    "caption": "Mayonnaise, dressing, and other prepared sauce manufacturing",
+    "trir": 3.7,
+    "dart": 2.6
+  },
+  "311942": {
+    "caption": "Spice and extract manufacturing",
+    "trir": 3.8,
+    "dart": 2.9
+  },
+  "311991": {
+    "caption": "Perishable prepared food manufacturing",
+    "trir": 6.2,
+    "dart": 4.4
+  },
+  "311999": {
+    "caption": "All other miscellaneous food manufacturing",
+    "trir": 3.1,
+    "dart": 2.2
+  },
+  "312111": {
+    "caption": "Soft drink manufacturing",
+    "trir": 5.5,
+    "dart": 4.1
+  },
+  "312112": {
+    "caption": "Bottled water manufacturing",
+    "trir": 10.6,
+    "dart": 7.4
+  },
+  "312113": {
+    "caption": "Ice manufacturing",
+    "trir": 5.6,
+    "dart": 4.8
+  },
+  "314999": {
+    "caption": "All other miscellaneous textile product mills",
+    "trir": 2.3,
+    "dart": 1
+  },
+  "316998": {
+    "caption": "All other leather good and allied product manufacturing",
+    "trir": 3,
+    "dart": 2.4
+  },
+  "321113": {
+    "caption": "Sawmills",
+    "trir": 5.3,
+    "dart": 3.6
+  },
+  "321114": {
+    "caption": "Wood preservation",
+    "trir": 3.5,
+    "dart": 2.3
+  },
+  "321211": {
+    "caption": "Hardwood veneer and plywood manufacturing",
+    "trir": 4.5,
+    "dart": 3.1
+  },
+  "321212": {
+    "caption": "Softwood veneer and plywood manufacturing",
+    "trir": 4.2,
+    "dart": 2.9
+  },
+  "321213": {
+    "caption": "Engineered wood member (except truss) manufacturing",
+    "trir": 3.1,
+    "dart": 1.7
+  },
+  "321214": {
+    "caption": "Truss manufacturing",
+    "trir": 6.7,
+    "dart": 4.7
+  },
+  "321219": {
+    "caption": "Reconstituted wood product manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "321911": {
+    "caption": "Wood window and door manufacturing",
+    "trir": 4.9,
+    "dart": 2.9
+  },
+  "321912": {
+    "caption": "Cut stock, resawing lumber, and planing",
+    "trir": 6.4,
+    "dart": 4.6
+  },
+  "321918": {
+    "caption": "Other millwork (including flooring)",
+    "trir": 5.2,
+    "dart": 3.9
+  },
+  "321991": {
+    "caption": "Manufactured home (mobile home) manufacturing",
+    "trir": 7.8,
+    "dart": 4.5
+  },
+  "321992": {
+    "caption": "Prefabricated wood building manufacturing",
+    "trir": 6.6,
+    "dart": 4.9
+  },
+  "321999": {
+    "caption": "All other miscellaneous wood product manufacturing",
+    "trir": 4.1,
+    "dart": 2.2
+  },
+  "322121": {
+    "caption": "Paper (except newsprint) mills",
+    "trir": 2.7,
+    "dart": 2
+  },
+  "322122": {
+    "caption": "Newsprint mills",
+    "trir": 2.3,
+    "dart": 1.7
+  },
+  "322211": {
+    "caption": "Corrugated and solid fiber box manufacturing",
+    "trir": 2.6,
+    "dart": 1.7
+  },
+  "322212": {
+    "caption": "Folding paperboard box manufacturing",
+    "trir": 3,
+    "dart": 2
+  },
+  "322219": {
+    "caption": "Other paperboard container manufacturing",
+    "trir": 2,
+    "dart": 1.5
+  },
+  "322291": {
+    "caption": "Sanitary paper product manufacturing",
+    "trir": 2.3,
+    "dart": 1.6
+  },
+  "322299": {
+    "caption": "All other converted paper product manufacturing",
+    "trir": 3,
+    "dart": 2.4
+  },
+  "323111": {
+    "caption": "Commercial printing (except screen and books)",
+    "trir": 2,
+    "dart": 1.3
+  },
+  "323113": {
+    "caption": "Commercial screen printing",
+    "trir": 2.4,
+    "dart": 1.5
+  },
+  "323117": {
+    "caption": "Books printing",
+    "trir": 4.1,
+    "dart": 2.8
+  },
+  "324121": {
+    "caption": "Asphalt paving mixture and block manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "324122": {
+    "caption": "Asphalt shingle and coating materials manufacturing",
+    "trir": 2.1,
+    "dart": 1.1
+  },
+  "324191": {
+    "caption": "Petroleum lubricating oil and grease manufacturing",
+    "trir": 1.3,
+    "dart": 0.8
+  },
+  "324199": {
+    "caption": "All other petroleum and coal products manufacturing",
+    "trir": 4.3,
+    "dart": 3.1
+  },
+  "325194": {
+    "caption": "Cyclic crude, intermediate, and gum and wood chemical manufacturing",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "325199": {
+    "caption": "All other basic organic chemical manufacturing",
+    "trir": 2.5,
+    "dart": 1.9
+  },
+  "325211": {
+    "caption": "Plastics material and resin manufacturing",
+    "trir": 1.3,
+    "dart": 0.9
+  },
+  "325212": {
+    "caption": "Synthetic rubber manufacturing",
+    "trir": 2.7,
+    "dart": 1.4
+  },
+  "325311": {
+    "caption": "Nitrogenous fertilizer manufacturing",
+    "trir": 1.8,
+    "dart": 1
+  },
+  "325411": {
+    "caption": "Medicinal and botanical manufacturing",
+    "trir": 2,
+    "dart": 1.5
+  },
+  "325412": {
+    "caption": "Pharmaceutical preparation manufacturing",
+    "trir": 1.5,
+    "dart": 1.1
+  },
+  "325414": {
+    "caption": "Biological product (except diagnostic) manufacturing",
+    "trir": 1.2,
+    "dart": 0.7
+  },
+  "325611": {
+    "caption": "Soap and other detergent manufacturing",
+    "trir": 2.4,
+    "dart": 1.7
+  },
+  "325612": {
+    "caption": "Polish and other sanitation good manufacturing",
+    "trir": 2.4,
+    "dart": 1.8
+  },
+  "325613": {
+    "caption": "Surface active agent manufacturing",
+    "trir": 1.6,
+    "dart": 1.3
+  },
+  "325991": {
+    "caption": "Custom compounding of purchased resins",
+    "trir": 2.4,
+    "dart": 1.6
+  },
+  "325998": {
+    "caption": "All other miscellaneous chemical product and preparation manufacturing",
+    "trir": 2.4,
+    "dart": 1.6
+  },
+  "326111": {
+    "caption": "Plastics bag and pouch manufacturing",
+    "trir": 3.3,
+    "dart": 2.8
+  },
+  "326112": {
+    "caption": "Plastics packaging film and sheet (including laminated) manufacturing",
+    "trir": 3.5,
+    "dart": 2.3
+  },
+  "326113": {
+    "caption": "Unlaminated plastics film and sheet (except packaging) manufacturing",
+    "trir": 3.8,
+    "dart": 2.4
+  },
+  "326121": {
+    "caption": "Unlaminated plastics profile shape manufacturing",
+    "trir": 3,
+    "dart": 1.8
+  },
+  "326122": {
+    "caption": "Plastics pipe and pipe fitting manufacturing",
+    "trir": 2.9,
+    "dart": 2.1
+  },
+  "326191": {
+    "caption": "Plastics plumbing fixture manufacturing",
+    "trir": 6.5,
+    "dart": 4.3
+  },
+  "326199": {
+    "caption": "All other plastics product manufacturing",
+    "trir": 3.3,
+    "dart": 2.2
+  },
+  "326211": {
+    "caption": "Tire manufacturing (except retreading)",
+    "trir": 3.4,
+    "dart": 2.6
+  },
+  "326291": {
+    "caption": "Rubber product manufacturing for mechanical use",
+    "trir": 3.8,
+    "dart": 2.6
+  },
+  "326299": {
+    "caption": "All other rubber product manufacturing",
+    "trir": 3.5,
+    "dart": 2.4
+  },
+  "327211": {
+    "caption": "Flat glass manufacturing",
+    "trir": 3.2,
+    "dart": 2.2
+  },
+  "327212": {
+    "caption": "Other pressed and blown glass and glassware manufacturing",
+    "trir": 3.1,
+    "dart": 1.8
+  },
+  "327215": {
+    "caption": "Glass product manufacturing made of purchased glass",
+    "trir": 3.8,
+    "dart": 2.6
+  },
+  "327331": {
+    "caption": "Concrete block and brick manufacturing",
+    "trir": 3.9,
+    "dart": 2.2
+  },
+  "327991": {
+    "caption": "Cut stone and stone product manufacturing",
+    "trir": 4.7,
+    "dart": 3.7
+  },
+  "327993": {
+    "caption": "Mineral wool manufacturing",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "331221": {
+    "caption": "Rolled steel shape manufacturing",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "331313": {
+    "caption": "Alumina refining and primary aluminum production",
+    "trir": 4.9,
+    "dart": 3.4
+  },
+  "331314": {
+    "caption": "Secondary smelting and alloying of aluminum",
+    "trir": 5.1,
+    "dart": 3.7
+  },
+  "331315": {
+    "caption": "Aluminum sheet, plate, and foil manufacturing",
+    "trir": 1.7,
+    "dart": 1
+  },
+  "331318": {
+    "caption": "Other aluminum rolling, drawing, and extruding",
+    "trir": 2.6,
+    "dart": 1.7
+  },
+  "331491": {
+    "caption": "Nonferrous metal (except copper and aluminum) rolling, drawing, and extruding",
+    "trir": 3.9,
+    "dart": 2.4
+  },
+  "331492": {
+    "caption": "Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)",
+    "trir": 4.9,
+    "dart": 2.9
+  },
+  "331511": {
+    "caption": "Iron foundries",
+    "trir": 8.1,
+    "dart": 4.2
+  },
+  "331512": {
+    "caption": "Steel investment foundries",
+    "trir": 5.7,
+    "dart": 2.7
+  },
+  "331513": {
+    "caption": "Steel foundries (except investment)",
+    "trir": 7,
+    "dart": 3.9
+  },
+  "331523": {
+    "caption": "Nonferrous metal die-casting foundries",
+    "trir": 5.7,
+    "dart": 3.4
+  },
+  "331524": {
+    "caption": "Aluminum foundries (except die-casting)",
+    "trir": 5.9,
+    "dart": 3.8
+  },
+  "331529": {
+    "caption": "Other nonferrous metal foundries (except die-casting)",
+    "trir": 3.8,
+    "dart": 2.3
+  },
+  "332111": {
+    "caption": "Iron and steel forging",
+    "trir": 4.7,
+    "dart": 3.1
+  },
+  "332112": {
+    "caption": "Nonferrous forging",
+    "trir": 4.8,
+    "dart": 4
+  },
+  "332117": {
+    "caption": "Powder metallurgy part manufacturing",
+    "trir": 3.8,
+    "dart": 2.9
+  },
+  "332119": {
+    "caption": "Metal crown, closure, and other metal stamping (except automotive)",
+    "trir": 4.2,
+    "dart": 2.3
+  },
+  "332216": {
+    "caption": "Saw blade and handtool manufacturing",
+    "trir": 4,
+    "dart": 2.1
+  },
+  "332311": {
+    "caption": "Prefabricated metal building and component manufacturing",
+    "trir": 5.6,
+    "dart": 3.1
+  },
+  "332312": {
+    "caption": "Fabricated structural metal manufacturing",
+    "trir": 4.2,
+    "dart": 2.3
+  },
+  "332313": {
+    "caption": "Plate work manufacturing",
+    "trir": 4.4,
+    "dart": 2.5
+  },
+  "332321": {
+    "caption": "Metal window and door manufacturing",
+    "trir": 3.4,
+    "dart": 2
+  },
+  "332322": {
+    "caption": "Sheet metal work manufacturing",
+    "trir": 4.3,
+    "dart": 2.1
+  },
+  "332323": {
+    "caption": "Ornamental and architectural metal work manufacturing",
+    "trir": 3.9,
+    "dart": 2.7
+  },
+  "332431": {
+    "caption": "Metal can manufacturing",
+    "trir": 2.7,
+    "dart": 1.4
+  },
+  "332439": {
+    "caption": "Other metal container manufacturing",
+    "trir": 5.4,
+    "dart": 4.2
+  },
+  "332613": {
+    "caption": "Spring manufacturing",
+    "trir": 3.9,
+    "dart": 2.3
+  },
+  "332618": {
+    "caption": "Other fabricated wire product manufacturing",
+    "trir": 3.9,
+    "dart": 2.9
+  },
+  "332721": {
+    "caption": "Precision turned product manufacturing",
+    "trir": 3.5,
+    "dart": 1.9
+  },
+  "332722": {
+    "caption": "Bolt, nut, screw, rivet, and washer manufacturing",
+    "trir": 3.1,
+    "dart": 1.8
+  },
+  "332811": {
+    "caption": "Metal heat treating",
+    "trir": 3.1,
+    "dart": 2.2
+  },
+  "332812": {
+    "caption": "Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers",
+    "trir": 4.2,
+    "dart": 2.8
+  },
+  "332813": {
+    "caption": "Electroplating, plating, polishing, anodizing, and coloring",
+    "trir": 4.3,
+    "dart": 2.9
+  },
+  "332911": {
+    "caption": "Industrial valve manufacturing",
+    "trir": 2.3,
+    "dart": 1.4
+  },
+  "332912": {
+    "caption": "Fluid power valve and hose fitting manufacturing",
+    "trir": 2.5,
+    "dart": 1.1
+  },
+  "332991": {
+    "caption": "Ball and roller bearing manufacturing",
+    "trir": 2.2,
+    "dart": 1.4
+  },
+  "332992": {
+    "caption": "Small arms ammunition manufacturing",
+    "trir": 2,
+    "dart": 1
+  },
+  "332994": {
+    "caption": "Small arms, ordnance, and ordnance accessories manufacturing",
+    "trir": 2.8,
+    "dart": 1.3
+  },
+  "332996": {
+    "caption": "Fabricated pipe and pipe fitting manufacturing",
+    "trir": 2.9,
+    "dart": 1.7
+  },
+  "332999": {
+    "caption": "All other miscellaneous fabricated metal product manufacturing",
+    "trir": 3.8,
+    "dart": 1.9
+  },
+  "333111": {
+    "caption": "Farm machinery and equipment manufacturing",
+    "trir": 4.7,
+    "dart": 2.9
+  },
+  "333112": {
+    "caption": "Lawn and garden tractor and home lawn and garden equipment manufacturing",
+    "trir": 4,
+    "dart": 2.3
+  },
+  "333131": {
+    "caption": "Mining machinery and equipment manufacturing",
+    "trir": 2.7,
+    "dart": 1.5
+  },
+  "333132": {
+    "caption": "Oil and gas field machinery and equipment manufacturing",
+    "trir": 1.3,
+    "dart": 1
+  },
+  "333241": {
+    "caption": "Food product machinery manufacturing",
+    "trir": 3.1,
+    "dart": 1.7
+  },
+  "333242": {
+    "caption": "Semiconductor machinery manufacturing",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "333243": {
+    "caption": "Sawmill, woodworking, and paper machinery manufacturing",
+    "trir": 3.3,
+    "dart": 1.3
+  },
+  "333244": {
+    "caption": "Printing machinery and equipment manufacturing",
+    "trir": 2.1,
+    "dart": 1.5
+  },
+  "333249": {
+    "caption": "Other industrial machinery manufacturing",
+    "trir": 2.9,
+    "dart": 1.5
+  },
+  "333314": {
+    "caption": "Optical instrument and lens manufacturing",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "333318": {
+    "caption": "Other commercial and service caption machinery manufacturing",
+    "trir": 2.9,
+    "dart": 1.5
+  },
+  "333413": {
+    "caption": "Industrial and commercial fan and blower and air purification equipment manufacturing",
+    "trir": 3,
+    "dart": 2
+  },
+  "333414": {
+    "caption": "Heating equipment (except warm air furnaces) manufacturing",
+    "trir": 4.7,
+    "dart": 2.7
+  },
+  "333415": {
+    "caption": "Air-conditioning and warm air heating equipment and commercial and industrial refrigeration equipment manufacturing",
+    "trir": 2.5,
+    "dart": 1.6
+  },
+  "333511": {
+    "caption": "Industrial mold manufacturing",
+    "trir": 2.2,
+    "dart": 1.1
+  },
+  "333514": {
+    "caption": "Special die and tool, die set, jig, and fixture manufacturing",
+    "trir": 3.1,
+    "dart": 1.3
+  },
+  "333515": {
+    "caption": "Cutting tool and machine tool accessory manufacturing",
+    "trir": 2.8,
+    "dart": 2.4
+  },
+  "333517": {
+    "caption": "Machine tool manufacturing",
+    "trir": 2.6,
+    "dart": 1.2
+  },
+  "333612": {
+    "caption": "Speed changer, industrial high-speed drive, and gear manufacturing",
+    "trir": 4.1,
+    "dart": 2.4
+  },
+  "333613": {
+    "caption": "Mechanical power transmission equipment manufacturing",
+    "trir": 3.8,
+    "dart": 2.5
+  },
+  "333618": {
+    "caption": "Other engine equipment manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "333912": {
+    "caption": "Air and gas compressor manufacturing",
+    "trir": 2.2,
+    "dart": 1.6
+  },
+  "333914": {
+    "caption": "Measuring, dispensing, and other pumping equipment manufacturing",
+    "trir": 2.4,
+    "dart": 1.4
+  },
+  "333921": {
+    "caption": "Elevator and moving stairway manufacturing",
+    "trir": 1.9,
+    "dart": 1
+  },
+  "333922": {
+    "caption": "Conveyor and conveying equipment manufacturing",
+    "trir": 3.7,
+    "dart": 2.3
+  },
+  "333924": {
+    "caption": "Industrial truck, tractor, trailer, and stacker machinery manufacturing",
+    "trir": 4,
+    "dart": 2.5
+  },
+  "333992": {
+    "caption": "Welding and soldering equipment manufacturing",
+    "trir": 2.6,
+    "dart": 1.2
+  },
+  "333993": {
+    "caption": "Packaging machinery manufacturing",
+    "trir": 1.8,
+    "dart": 1.1
+  },
+  "333994": {
+    "caption": "Industrial process furnace and oven manufacturing",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "333996": {
+    "caption": "Fluid power pump and motor manufacturing",
+    "trir": 1.5,
+    "dart": 0.8
+  },
+  "333999": {
+    "caption": "All other miscellaneous general purpose machinery manufacturing",
+    "trir": 1.7,
+    "dart": 1.1
+  },
+  "334111": {
+    "caption": "Electronic computer manufacturing",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "334112": {
+    "caption": "Computer storage device manufacturing",
+    "trir": 0.5,
+    "dart": 0.3
+  },
+  "334118": {
+    "caption": "Computer terminal and other computer peripheral equipment manufacturing",
+    "trir": 0.3,
+    "dart": 0.2
+  },
+  "334412": {
+    "caption": "Bare printed circuit board manufacturing",
+    "trir": 2.8,
+    "dart": 1.6
+  },
+  "334413": {
+    "caption": "Semiconductor and related device manufacturing",
+    "trir": 0.8,
+    "dart": 0.4
+  },
+  "334416": {
+    "caption": "Capacitor, resistor, coil, transformer, and other inductor manufacturing",
+    "trir": 3.2,
+    "dart": 2.5
+  },
+  "334417": {
+    "caption": "Electronic connector manufacturing",
+    "trir": 1.4,
+    "dart": 1
+  },
+  "334418": {
+    "caption": "Printed circuit assembly (electronic assembly) manufacturing",
+    "trir": 1,
+    "dart": 0.5
+  },
+  "334419": {
+    "caption": "Other electronic component manufacturing",
+    "trir": 1.5,
+    "dart": 0.9
+  },
+  "334510": {
+    "caption": "Electromedical and electrotherapeutic apparatus manufacturing",
+    "trir": 1.1,
+    "dart": 0.7
+  },
+  "334511": {
+    "caption": "Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing",
+    "trir": 0.9,
+    "dart": 0.6
+  },
+  "334515": {
+    "caption": "Instrument manufacturing for measuring and testing electricity and electrical signals",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "334516": {
+    "caption": "Analytical laboratory instrument manufacturing",
+    "trir": 1,
+    "dart": 0.6
+  },
+  "334613": {
+    "caption": "Blank magnetic and optical recording media manufacturing",
+    "trir": 0,
+    "dart": 0
+  },
+  "335122": {
+    "caption": "Commercial, industrial, and institutional electric lighting fixture manufacturing",
+    "trir": 4.2,
+    "dart": 3.5
+  },
+  "335129": {
+    "caption": "Other lighting equipment manufacturing",
+    "trir": 3.3,
+    "dart": 1.9
+  },
+  "335311": {
+    "caption": "Power, distribution, and specialty transformer manufacturing",
+    "trir": 2.9,
+    "dart": 1.9
+  },
+  "335312": {
+    "caption": "Motor and generator manufacturing",
+    "trir": 1.7,
+    "dart": 1
+  },
+  "335313": {
+    "caption": "Switchgear and switchboard apparatus manufacturing",
+    "trir": 1.9,
+    "dart": 1.2
+  },
+  "335314": {
+    "caption": "Relay and industrial control manufacturing",
+    "trir": 1.5,
+    "dart": 0.6
+  },
+  "335921": {
+    "caption": "Fiber optic cable manufacturing",
+    "trir": 1.3,
+    "dart": 0.7
+  },
+  "335931": {
+    "caption": "Current-carrying wiring device manufacturing",
+    "trir": 3.2,
+    "dart": 1.8
+  },
+  "335932": {
+    "caption": "Noncurrent-carrying wiring device manufacturing",
+    "trir": 3.7,
+    "dart": 1.9
+  },
+  "335991": {
+    "caption": "Carbon and graphite product manufacturing",
+    "trir": 2.2,
+    "dart": 0.8
+  },
+  "335999": {
+    "caption": "All other miscellaneous electrical equipment and component manufacturing",
+    "trir": 1.7,
+    "dart": 0.7
+  },
+  "336111": {
+    "caption": "Automobile manufacturing",
+    "trir": 5.7,
+    "dart": 4.4
+  },
+  "336112": {
+    "caption": "Light truck and utility vehicle manufacturing",
+    "trir": 6,
+    "dart": 3.8
+  },
+  "336211": {
+    "caption": "Motor vehicle body manufacturing",
+    "trir": 6,
+    "dart": 3.9
+  },
+  "336212": {
+    "caption": "Truck trailer manufacturing",
+    "trir": 5.4,
+    "dart": 2.7
+  },
+  "336214": {
+    "caption": "Travel trailer and camper manufacturing",
+    "trir": 7.2,
+    "dart": 3.4
+  },
+  "336411": {
+    "caption": "Aircraft manufacturing",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "336412": {
+    "caption": "Aircraft engine and engine parts manufacturing",
+    "trir": 1.3,
+    "dart": 0.6
+  },
+  "336413": {
+    "caption": "Other aircraft parts and auxiliary equipment manufacturing",
+    "trir": 2.3,
+    "dart": 1.3
+  },
+  "336414": {
+    "caption": "Guided missile and space vehicle manufacturing",
+    "trir": 0.6,
+    "dart": 0.3
+  },
+  "336415": {
+    "caption": "Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing",
+    "trir": 1.8,
+    "dart": 1.4
+  },
+  "336611": {
+    "caption": "Ship building and repairing",
+    "trir": 6.9,
+    "dart": 5.3
+  },
+  "336612": {
+    "caption": "Boat building",
+    "trir": 5.1,
+    "dart": 3.3
+  },
+  "336991": {
+    "caption": "Motorcycle, bicycle, and parts manufacturing",
+    "trir": 2.4,
+    "dart": 2
+  },
+  "336992": {
+    "caption": "Military armored vehicle, tank, and tank component manufacturing",
+    "trir": 2.9,
+    "dart": 1.7
+  },
+  "336999": {
+    "caption": "All other transportation equipment manufacturing",
+    "trir": 4.2,
+    "dart": 2.5
+  },
+  "337121": {
+    "caption": "Upholstered household furniture manufacturing",
+    "trir": 5,
+    "dart": 3.2
+  },
+  "337122": {
+    "caption": "Nonupholstered wood household furniture manufacturing",
+    "trir": 3.5,
+    "dart": 2.4
+  },
+  "337127": {
+    "caption": "Institutional furniture manufacturing",
+    "trir": 3.9,
+    "dart": 2.5
+  },
+  "337211": {
+    "caption": "Wood office furniture manufacturing",
+    "trir": 3.1,
+    "dart": 2.2
+  },
+  "337212": {
+    "caption": "Custom architectural woodwork and millwork manufacturing",
+    "trir": 5.2,
+    "dart": 3.5
+  },
+  "337214": {
+    "caption": "Office furniture (except wood) manufacturing",
+    "trir": 2.9,
+    "dart": 1.7
+  },
+  "337215": {
+    "caption": "Showcase, partition, shelving, and locker manufacturing",
+    "trir": 4.3,
+    "dart": 2.8
+  },
+  "339112": {
+    "caption": "Surgical and medical instrument manufacturing",
+    "trir": 1.2,
+    "dart": 0.8
+  },
+  "339113": {
+    "caption": "Surgical appliance and supplies manufacturing",
+    "trir": 1.6,
+    "dart": 1.1
+  },
+  "339115": {
+    "caption": "Ophthalmic goods manufacturing",
+    "trir": 2.1,
+    "dart": 1.4
+  },
+  "339116": {
+    "caption": "Dental laboratories",
+    "trir": 1.9,
+    "dart": 0.7
+  },
+  "339991": {
+    "caption": "Gasket, packing, and sealing device manufacturing",
+    "trir": 1.9,
+    "dart": 1.1
+  },
+  "339992": {
+    "caption": "Musical instrument manufacturing",
+    "trir": 4,
+    "dart": 2.3
+  },
+  "339995": {
+    "caption": "Burial casket manufacturing",
+    "trir": 3,
+    "dart": 2.3
+  },
+  "443141": {
+    "caption": "Household appliance stores",
+    "trir": 3.2,
+    "dart": 1.5
+  },
+  "443142": {
+    "caption": "Electronics stores",
+    "trir": 1.1,
+    "dart": 0.8
+  },
+  "451211": {
+    "caption": "Book stores",
+    "trir": 0.9,
+    "dart": 0.7
+  },
+  "452311": {
+    "caption": "Warehouse clubs and supercenters",
+    "trir": 5.9,
+    "dart": 3.6
+  },
+  "452319": {
+    "caption": "All other general merchandise stores",
+    "trir": 4.8,
+    "dart": 2.8
+  },
+  "481111": {
+    "caption": "Scheduled passenger air transportation",
+    "trir": 6.9,
+    "dart": 5.8
+  },
+  "481112": {
+    "caption": "Scheduled freight air transportation",
+    "trir": 2,
+    "dart": 1.6
+  },
+  "483113": {
+    "caption": "Coastal and great lakes freight transportation",
+    "trir": 1.1,
+    "dart": 1
+  },
+  "483114": {
+    "caption": "Coastal and great lakes passenger transportation",
+    "trir": 4.7,
+    "dart": 4.6
+  },
+  "483211": {
+    "caption": "Inland water freight transportation",
+    "trir": 2.9,
+    "dart": 2.6
+  },
+  "483212": {
+    "caption": "Inland water passenger transportation",
+    "trir": 9.7,
+    "dart": 2.4
+  },
+  "517311": {
+    "caption": "Wired telecommunications carriers",
+    "trir": 2.2,
+    "dart": 1.5
+  },
+  "532281": {
+    "caption": "Formal wear and costume rental",
+    "trir": 0,
+    "dart": 0
+  },
+  "532282": {
+    "caption": "Video tape and disc rental",
+    "trir": 0.9,
+    "dart": 0.9
+  },
+  "532283": {
+    "caption": "Home health equipment rental",
+    "trir": 2.1,
+    "dart": 1.7
+  },
+  "541211": {
+    "caption": "Offices of certified public accountants",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "541219": {
+    "caption": "Other accounting services",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "541511": {
+    "caption": "Custom computer programming services",
+    "trir": 0.1,
+    "dart": 0.1
+  },
+  "541512": {
+    "caption": "Computer systems design services",
+    "trir": 0.4,
+    "dart": 0.2
+  },
+  "541519": {
+    "caption": "Other computer related services",
+    "trir": 0.2,
+    "dart": 0.1
+  },
+  "561612": {
+    "caption": "Security guards and patrol services",
+    "trir": 1.4,
+    "dart": 0.7
+  },
+  "561613": {
+    "caption": "Armored car services",
+    "trir": 5.7,
+    "dart": 2
+  },
+  "562111": {
+    "caption": "Solid waste collection",
+    "trir": 4,
+    "dart": 3
+  },
+  "562119": {
+    "caption": "Other waste collection",
+    "trir": 2.1,
+    "dart": 1.3
+  },
+  "562211": {
+    "caption": "Hazardous waste treatment and disposal",
+    "trir": 2.3,
+    "dart": 1.7
+  },
+  "562212": {
+    "caption": "Solid waste landfill",
+    "trir": 2.2,
+    "dart": 1.6
+  },
+  "562213": {
+    "caption": "Solid waste combustors and incinerators",
+    "trir": 2,
+    "dart": 1.2
+  },
+  "562219": {
+    "caption": "Other nonhazardous waste treatment and disposal",
+    "trir": 4.4,
+    "dart": 3.2
+  },
+  "621111": {
+    "caption": "Offices of physicians (except mental health specialists)",
+    "trir": 2,
+    "dart": 0.8
+  },
+  "621112": {
+    "caption": "Offices of physicians, mental health specialists",
+    "trir": 2.5,
+    "dart": 0.6
+  },
+  "711219": {
+    "caption": "Other spectator sports",
+    "trir": 4.7,
+    "dart": 2.6
+  },
+  "721211": {
+    "caption": "RV (recreational vehicle) parks and campgrounds",
+    "trir": 0.7,
+    "dart": 0.5
+  },
+  "721214": {
+    "caption": "Recreational and vacation camps (except campgrounds)",
+    "trir": 5.2,
+    "dart": 1.8
+  },
+  "722511": {
+    "caption": "Full-service restaurants",
+    "trir": 2.2,
+    "dart": 0.9
+  },
+  "722513": {
+    "caption": "Limited-service restaurants",
+    "trir": 3.1,
+    "dart": 1.3
+  },
+  "722514": {
+    "caption": "Cafeterias, grill buffets, and buffets",
+    "trir": 0.9,
+    "dart": 0.4
+  },
+  "722515": {
+    "caption": "Snack and nonalcoholic beverage bars",
+    "trir": 2.8,
+    "dart": 1.1
+  },
+  "812331": {
+    "caption": "Linen supply",
+    "trir": 5.5,
+    "dart": 4.2
+  },
+  "812332": {
+    "caption": "Industrial launderers",
+    "trir": 3.3,
+    "dart": 2.5
+  }
+}
